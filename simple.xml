@@ -71,6 +71,18 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		</menuBackground>
 	</view>
 
+	<view name="system">
+		<image name="background" extra="true">
+			<path>./art/fond.jpg</path>
+		</image>
+		<image name="logo">
+			<path>./art/logo.png</path>
+		</image>
+		<sound name="bgsound">
+			<path>./sounds/system.ogg</path>
+		</sound>
+	</view>
+	
     <view name="basic, detailed, grid">
 		<helpsystem name="help">
 		  <textColor>5e5e5e</textColor>
@@ -79,6 +91,9 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		  <fontSize>0.011</fontSize>
 		  <pos>0.309 0.968</pos>
 		</helpsystem>
+		<image name="background" extra="true">
+			<path>./art/fond.jpg</path>
+		</image>
 		
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
 			<color>DFDCDC</color>

@@ -1,28 +1,7 @@
 <theme>
   <formatVersion>4</formatVersion>
   <include>./../simple.xml</include>
-  <view name="system">
-    <sound name="bgsound">
-      <path>./sounds/system.ogg</path>
-    </sound>
-    <image name="background" extra="true">
-      <path>./art/fond_daphne.jpg</path>
-    </image>
-    <image name="logo">
-      <path>./art/daphne_sub.png</path>
-    </image>
-    <helpsystem name="help">
-      <textColor>5e5e5e</textColor>
-      <iconColor>5e5e5e</iconColor>
-	  <fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
-	  <fontSize>0.012</fontSize>
-	  <pos>0.01 0.965</pos>
-    </helpsystem>
-  </view>
   <view name="basic, detailed">
-    <image name="background">
-      <path>./art/fond_daphne.jpg</path>
-    </image>
     <text name="system_name_1" extra="true">
       <text></text>
       <forceUppercase>1</forceUppercase>
