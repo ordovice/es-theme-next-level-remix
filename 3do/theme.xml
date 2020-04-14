@@ -133,8 +133,8 @@
     <rating name="md_rating">
       <pos>10 0.216</pos>
       <size>0 0</size>
-      <filledPath>./../art/star_filled_spacing.svg</filledPath>
-      <unfilledPath>./../art/star_hollow_3_spacing.svg</unfilledPath>
+      <filledPath>./../_inc/images/star_filled_spacing.svg</filledPath>
+      <unfilledPath>./../_inc/images/star_hollow_3_spacing.svg</unfilledPath>
     </rating>
     <text name="md_description">
       <size>0.5 0.105</size>

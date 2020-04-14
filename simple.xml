@@ -67,7 +67,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		<menuBackground name="menubg">
 		    <color>2D2C2C</color>
 			<path>./../arts/frame.png</path>
-			<fadePath>./art/fond_menu.png</fadePath>
+			<fadePath>./_inc/images/fond_menu.png</fadePath>
 		</menuBackground>
 	</view>
 
@@ -122,14 +122,14 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<pos>0 1</pos>
 			<origin>0 1</origin>
 			<size>1 0.065</size>
-			<path>./art/footer.jpg</path>
+			<path>./_inc/images/footer.jpg</path>
 		</image>	
 
         <image name="backgroundfilter" extra="true">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
-			<path>./art/white40.png</path>
+			<path>./_inc/images/white40.png</path>
 		</image>
 		
 		<image name="logo">
