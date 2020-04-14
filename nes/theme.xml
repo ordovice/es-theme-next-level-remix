@@ -14,7 +14,7 @@
     <helpsystem name="help">
       <textColor>5e5e5e</textColor>
       <iconColor>5e5e5e</iconColor>
-	  <fontPath>./../art/conthrax-sb.ttf</fontPath>
+	  <fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
 	  <fontSize>0.012</fontSize>
 	  <pos>0.01 0.965</pos>
     </helpsystem>
@@ -30,7 +30,7 @@
       <size>0.45 0.08</size>
       <pos>0.527 0.01</pos>
       <color>DFDCDC</color>
-      <fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+      <fontPath>./../_inc/fonts/opensans-light.ttf</fontPath>
       <fontSize>0.055</fontSize>
       <alignment>right</alignment>
     </text>
@@ -40,7 +40,7 @@
       <size>0.45 0.08</size>
       <pos>0.527 0.07</pos>
       <color>B8B6B6</color>
-      <fontPath>./../art/OPENSANS-LIGHT.TTF</fontPath>
+      <fontPath>./../_inc/fonts/opensans-light.ttf</fontPath>
       <fontSize>0.055</fontSize>
       <alignment>right</alignment>
     </text>

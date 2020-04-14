@@ -20,7 +20,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<size>0.09 0.058</size>
 			<alignment>right</alignment>
 			<verticalAlignment>center</verticalAlignment>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 		</text>
 		<controllerActivity name="controllerActivity">
 			<pos>0.01 0.012</pos>
@@ -38,16 +38,16 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
             <pos>0.0 0.61</pos>
             <backgroundColor>00000000</backgroundColor>
             <color>ECECEC</color>
-            <fontPath>./art/conthrax-sb.ttf</fontPath>
+            <fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 	        <fontSize>0.02</fontSize>
       </text>
 		<menuText name="menufooter">
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<color>777777FF</color>
 		</menuText>
 		<menuText name="menutext">
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.023</fontSize>
 			<color>DFDCDC</color>
 			<separatorColor>555555FF</separatorColor>
@@ -55,12 +55,12 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<selectedColor>FFFFFF</selectedColor>
 		</menuText>
 		<menuTextSmall name="menutextsmall">
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.028</fontSize>
 			<color>deec00</color>
 		</menuTextSmall>
 		<menuText name="menutitle">
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.037</fontSize>
 			<color>DFECFA</color>
 		</menuText>
@@ -75,7 +75,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		<helpsystem name="help">
 		  <textColor>5e5e5e</textColor>
 		  <iconColor>5e5e5e</iconColor>
-		  <fontPath>./art/conthrax-sb.ttf</fontPath>
+		  <fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 		  <fontSize>0.011</fontSize>
 		  <pos>0.309 0.968</pos>
 		</helpsystem>
@@ -83,7 +83,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
 			<color>DFDCDC</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<size>0.12 0.04</size>
 		</text>
@@ -91,7 +91,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
 			<color>DFDCDC</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<size>0.14 0.04</size>
 		</text>
@@ -99,14 +99,14 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		<text name="md_description">
 			<color>DFDCDC</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 		</text>
 		
 		<datetime name="md_releasedate, md_lastplayed">
 			<color>DFDCDC</color>
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<size>0 0.04</size>
 		</datetime>
@@ -144,7 +144,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<selectedColor>FFFFFF</selectedColor>
 			<primaryColor>DFDCDC</primaryColor>
 			<secondaryColor>DFDCDC</secondaryColor>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<forceUppercase>1</forceUppercase>
 			<scrollSound>./_inc/sound/scroll.wav</scrollSound>
@@ -179,7 +179,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<selectedColor>${baseColor}</selectedColor>
 			<primaryColor>cccccc</primaryColor>
 			<secondaryColor>cccccc</secondaryColor>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
 			<pos>0.1484375 0.2416666666666667</pos>
 			<size>0.703125 0.5555555555555556</size>
@@ -214,7 +214,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<origin>0.5 0</origin>
 			<size>0.15625 0.0555555555555556</size>
 			<fontSize>0.0444444444444444</fontSize>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<color>${baseColor}</color>
 			<forceUppercase>true</forceUppercase>
 		</text>
@@ -254,7 +254,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<size>0.30 0.05</size>
 			<color>F0F0F0</color>
 			<fontSize>0.02</fontSize>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<alignment>center</alignment>
 			<glowColor>${glowColor}</glowColor>
 			<glowSize>2</glowSize>
@@ -303,7 +303,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<size>0.30 0.20</size>
 			<fontSize>0.02</fontSize>
 			<color>A0A0B0</color>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 		</text>
 		<rating name="md_rating">
 			<pos>0.9 0.886</pos>
@@ -396,7 +396,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<size>0.30 0.05</size>
 			<color>F0F0F0</color>
 			<fontSize>0.02</fontSize>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<alignment>center</alignment>
 			<glowColor>${glowColor}</glowColor>
 			<glowSize>2</glowSize>
@@ -445,7 +445,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<size>0.30 0.20</size>
 			<fontSize>0.02</fontSize>
 			<color>A0A0B0</color>
-			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 		</text>
 		<rating name="md_rating">
 			<pos>0.9 0.886</pos>
