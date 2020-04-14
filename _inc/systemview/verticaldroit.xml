@@ -2,21 +2,21 @@
 	<formatVersion>7</formatVersion>
 	<view name="system">
 		<carousel name="systemcarousel">
-			<type>vertical_wheel</type>
+			<type>vertical</type>
 			<pos>0 0</pos>
 			<size>1 1</size>
 			<origin>0 0</origin>
 			<color>00000000</color>
 			<logoScale>1.4</logoScale>
 			<logoSize>0.240 0.200</logoSize>
-			<logoRotation>6.5</logoRotation>
-			<logoRotationOrigin>-3.2 0.5</logoRotationOrigin>
-			<logoAlignment>left</logoAlignment>
+			<logoRotation>-6.5</logoRotation>
+			<logoRotationOrigin>4 0.5</logoRotationOrigin>
+			<logoAlignment>right</logoAlignment>
 			<maxLogoCount>5</maxLogoCount>
 			<zIndex>75</zIndex>
 		</carousel>
 		<text name="systemInfo">
-			<pos>-0.31 0.569</pos>
+			<pos>0.3 0.569</pos>
 			<backgroundColor>00000000</backgroundColor>
 			<color>ECECEC</color>
 			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
@@ -32,7 +32,7 @@
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./../data/halo2.png</path>
+			<path>./../_inc/halos/halo3.png</path>
 		</image>
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>

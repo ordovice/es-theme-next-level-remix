@@ -2,21 +2,26 @@
 	<formatVersion>7</formatVersion>
 	<view name="system">
 		<carousel name="systemcarousel">
-			<type>horizontal</type>
-			<pos>0.0 0.09</pos>
-            <size>1.0 0.891</size>
+			<type>vertical</type>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<origin>0 0</origin>
 			<color>00000000</color>
 			<logoScale>1.4</logoScale>
-            <logoSize>0.240 0.200</logoSize>
-			<maxLogoCount>3</maxLogoCount> 
+			<logoSize>0.240 0.200</logoSize>
+			<logoRotation>-6.5</logoRotation>
+			<logoRotationOrigin>4 0.5</logoRotationOrigin>
+			<logoAlignment>right</logoAlignment>
+			<maxLogoCount>5</maxLogoCount>
+			<zIndex>75</zIndex>
 		</carousel>
 		<text name="systemInfo">
-         <pos>0.0 0.61</pos>
-         <backgroundColor>00000000</backgroundColor>
-         <color>ECECEC</color>
-         <fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
-	 <fontSize>0.02</fontSize>
-      </text>
+			<pos>0.3 0.569</pos>
+			<backgroundColor>00000000</backgroundColor>
+			<color>ECECEC</color>
+			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.017</fontSize>
+		</text>
 		<image name="background" extra="true">
 			<size>0 1</size>
 			<pos>0.5 0.5</pos>
@@ -27,116 +32,128 @@
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./../data/halo.png</path>
+			<path>./../_inc/halos/halo3.png</path>
 		</image>
-		
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
 			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.017</fontSize>
 			<pos>2 2</pos>
+			<color>00000099</color>
 		</text>
 		<image name="info_background" extra="true">
 			<!--<tile>true</tile>-->
 			<size>.4 .24</size>
-			<pos>.3 .08</pos>
+			<pos>.05 .66</pos>
 			<path>./../_inc/images/fiber.png</path>
 			<color>ffffff60</color>
 		</image>
 		<text name="info1" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.1</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.68</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info2" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.12</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.7</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info3" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.14</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.72</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info4" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.16</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.74</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info5" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.18</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.76</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info6" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.2</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.78</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info7" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.22</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.8</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info8" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.24</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.82</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info9" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.26</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.84</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info10" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.28</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.86</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info11" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.3</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.88</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 		<text name="info12" extra="true">
 			<fontSize>0.017</fontSize>
-			<pos>0 0.32</pos>
-			<size>1 0</size>
-			<alignment>center</alignment>
+			<pos>0.07 0.9</pos>
+			<size>0.5 0</size>
+			<alignment>left</alignment>
 			<color>ffffff</color>
 			<lineSpacing>1.17</lineSpacing>
+			<zIndex>80</zIndex>
 		</text>
 	</view>
 </theme>

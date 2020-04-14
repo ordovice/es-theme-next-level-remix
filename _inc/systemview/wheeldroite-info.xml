@@ -32,7 +32,7 @@
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./../data/halo3.png</path>
+			<path>./../_inc/halos/halo3.png</path>
 		</image>
 		<image name="info_background" extra="true">
 			<!--<tile>true</tile>-->
