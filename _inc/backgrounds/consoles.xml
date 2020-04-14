@@ -1,0 +1,14 @@
+<theme>
+	<formatVersion>7</formatVersion>
+
+	<view name="system">
+		<image name="background" extra="true">
+			<path>./art/console.jpg</path>
+		</image>
+	</view>
+	<view name="basic, detailed, grid">
+		<image name="background" extra="true">
+			<path>./art/console.jpg</path>
+		</image>
+	</view>
+</theme>
