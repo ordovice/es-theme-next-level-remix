@@ -1,0 +1,37 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Nintendo</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 2011</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>Units sold : 75.71 million</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>Best-selling game : Mario Kart 7</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>CPU : Dual-core ARM11, Single-core ARM9</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>RAM : 128 MB FCRAM, 26 MB VRAM</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>Video : DMP PICA200 @ 133 MHz</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Resolution : 800 X 240 top, 320x240 bottom</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Sound : Stereo speakers (pseudo-surround)</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Media: Game Card</text>
+		</text>
+		
+	</view>
+</theme>

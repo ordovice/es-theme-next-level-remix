@@ -1,0 +1,44 @@
+﻿<theme>
+	<formatVersion>7</formatVersion>
+	<view name="system">
+		<carousel name="systemcarousel">
+			<type>vertical</type>
+			<pos>0 0</pos>
+			<size>1 1</size>
+			<origin>0 0</origin>
+			<color>00000000</color>
+			<logoScale>1.4</logoScale>
+			<logoSize>0.240 0.200</logoSize>
+			<logoRotation>-6.5</logoRotation>
+			<logoRotationOrigin>4 0.5</logoRotationOrigin>
+			<logoAlignment>right</logoAlignment>
+			<maxLogoCount>5</maxLogoCount>
+			<zIndex>75</zIndex>
+		</carousel>
+		<text name="systemInfo">
+			<pos>0.3 0.569</pos>
+			<backgroundColor>00000000</backgroundColor>
+			<color>ECECEC</color>
+			<fontPath>./../art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.017</fontSize>
+		</text>
+		<image name="background" extra="true">
+			<size>0 1</size>
+			<pos>0.5 0.5</pos>
+			<origin>0.5 0.5</origin>
+		</image>
+		<image name="background2" extra="true">
+			<!--<tile>true</tile>-->
+			<size>1 1</size>
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<path>./../data/halo3.png</path>
+		</image>
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
+			<fontPath>./../art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.017</fontSize>
+			<pos>2 2</pos>
+			<color>ffffff</color>
+		</text>
+	</view>
+</theme>

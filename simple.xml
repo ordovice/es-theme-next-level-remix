@@ -1,0 +1,522 @@
+﻿<!--
+theme name:		NEXT LEVEL
+version:		2.0
+Description:	Based on Simple 1.4 theme by nils bonenberger (nilsbyte@nilsbyte.de)
+author:			Gaëtan at KOT Production
+Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCakeTV
+-->
+
+<theme>
+    <formatVersion>7</formatVersion>
+
+	<include>./config.xml</include>
+	<include>./${system.theme}/custom.xml</include>
+	
+	<view name="screen">
+		<text name="clock">
+			<color>777777FF</color>
+			<fontSize>0.035</fontSize>
+			<pos>0.90 0.936</pos>
+			<size>0.09 0.058</size>
+			<alignment>right</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+		</text>
+		<controllerActivity name="controllerActivity">
+			<pos>0.01 0.012</pos>
+			<size>0.085 0.025</size>
+			<itemSpacing>0.003</itemSpacing>
+			<imagePath>./_inc/images/gamepad.svg</imagePath>
+			<color>FFFFFF80</color>
+			<activityColor>A0A0FFC0</activityColor>
+			<hotkeyColor>FFA0A0C0</hotkeyColor>
+		</controllerActivity>
+	</view>
+
+    <view name="menu">
+		<text name="systemInfo">
+            <pos>0.0 0.61</pos>
+            <backgroundColor>00000000</backgroundColor>
+            <color>ECECEC</color>
+            <fontPath>./art/conthrax-sb.ttf</fontPath>
+	        <fontSize>0.02</fontSize>
+      </text>
+		<menuText name="menufooter">
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<color>777777FF</color>
+		</menuText>
+		<menuText name="menutext">
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.023</fontSize>
+			<color>DFDCDC</color>
+			<separatorColor>555555FF</separatorColor>
+			<selectorColor>006ca3</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
+		</menuText>
+		<menuTextSmall name="menutextsmall">
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.028</fontSize>
+			<color>deec00</color>
+		</menuTextSmall>
+		<menuText name="menutitle">
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.037</fontSize>
+			<color>DFECFA</color>
+		</menuText>
+		<menuBackground name="menubg">
+		    <color>2D2C2C</color>
+			<path>./../arts/frame.png</path>
+			<fadePath>./art/fond_menu.png</fadePath>
+		</menuBackground>
+	</view>
+
+    <view name="basic, detailed, grid">
+		<helpsystem name="help">
+		  <textColor>5e5e5e</textColor>
+		  <iconColor>5e5e5e</iconColor>
+		  <fontPath>./art/conthrax-sb.ttf</fontPath>
+		  <fontSize>0.011</fontSize>
+		  <pos>0.309 0.968</pos>
+		</helpsystem>
+		
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
+			<color>DFDCDC</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0.12 0.04</size>
+		</text>
+		
+		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
+			<color>DFDCDC</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0.14 0.04</size>
+		</text>
+
+		<text name="md_description">
+			<color>DFDCDC</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
+		
+		<datetime name="md_releasedate, md_lastplayed">
+			<color>DFDCDC</color>
+			<forceUppercase>1</forceUppercase>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<size>0 0.04</size>
+		</datetime>
+		
+		<image name="header" extra="true">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 0.16</size>
+			<path>./art/white80.png</path>
+		</image>
+
+		<image name="footer" extra="true">
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>1 0.065</size>
+			<path>./art/footer.jpg</path>
+		</image>	
+
+        <image name="backgroundfilter" extra="true">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+			<path>./art/white40.png</path>
+		</image>
+		
+		<image name="logo">
+			<path>./${system.theme}/art/logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+
+		<textlist name="gamelist">
+			<selectorColor>006ca3</selectorColor>
+			<selectedColor>FFFFFF</selectedColor>
+			<primaryColor>DFDCDC</primaryColor>
+			<secondaryColor>DFDCDC</secondaryColor>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<scrollSound>./_inc/sound/scroll.wav</scrollSound>
+		</textlist>
+		
+	</view>
+	
+	<view name="grid">
+		<imagegrid name="gamegrid">
+			<pos>0.025 0.16</pos>
+			<size>0.950 0.774</size>
+			<margin>0.005 0.010</margin>
+			<padding>0.03 0.05 0.03 0.04</padding>
+			<autoLayout>7 2</autoLayout>
+			<autoLayoutSelectedZoom>1.12</autoLayoutSelectedZoom>
+			<animateSelection>false</animateSelection>
+		</imagegrid>
+		<gridtile name="default">
+			<backgroundColor>FFFFFF00</backgroundColor>
+			<backgroundCornerSize>9 9</backgroundCornerSize>
+			<selectionMode>image</selectionMode>
+			<padding>5 5</padding>
+			<imageColor>FFFFFFB0</imageColor>
+		</gridtile>
+		<gridtile name="selected">
+			<backgroundCenterColor>${centerFadeColor}</backgroundCenterColor>
+			<backgroundEdgeColor>${bottomBarColor}</backgroundEdgeColor>
+			<imageColor>FFFFFFFF</imageColor>
+		</gridtile>
+		<textlist name="gamelist">
+			<selectorColor>333333ff</selectorColor>
+			<selectedColor>${baseColor}</selectedColor>
+			<primaryColor>cccccc</primaryColor>
+			<secondaryColor>cccccc</secondaryColor>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+			<pos>0.1484375 0.2416666666666667</pos>
+			<size>0.703125 0.5555555555555556</size>
+			<alignment>center</alignment>
+			<horizontalMargin>0.01</horizontalMargin>
+			<forceUppercase>1</forceUppercase>
+			<scrollSound>./_inc/sound/scroll.wav</scrollSound>
+		</textlist>
+		<text name="gridtile">
+			<color>D0D0D0</color>
+			<backgroundColor>00000000</backgroundColor>
+			<fontSize>0.02</fontSize>
+			<alignment>center</alignment>
+			<size>1 0.24</size>
+		</text>
+		<text name="gridtile_selected">
+			<color>FFFFFF</color>
+			<glowColor>${glowColor}</glowColor>
+			<glowSize>3</glowSize>
+		</text>
+		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
+			<color>A0A0B000</color>
+		</text>
+		<text name="md_lbl_rating,md_playcount,md_lbl_releasedate,md_lbl_lastplayed,md_lbl_developer,md_lbl_publisher,md_lbl_genre,md_lbl_players,md_lbl_playcount">
+			<pos>1 1</pos>
+		</text>
+		<text name="md_publisher, md_genre, md_players, md_playcount, md_description">
+			<color>ffffff00</color>
+		</text>
+		<text name="logoText">
+			<pos>.5 0.1427777777777778</pos>
+			<origin>0.5 0</origin>
+			<size>0.15625 0.0555555555555556</size>
+			<fontSize>0.0444444444444444</fontSize>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<color>${baseColor}</color>
+			<forceUppercase>true</forceUppercase>
+		</text>
+		<rating name="md_rating">
+			<pos>0.8 0.955</pos>
+			<size>0.1796875 0.0277777777777778</size>
+			<color>666666</color>
+		</rating>
+		<datetime name="md_releasedate, md_lastplayed">
+			<color>ffffff00</color>
+		</datetime>
+	</view>	
+	
+	<customView name="Grid + Details" inherits="grid" displayName="${gridDetailsViewName}">
+		<imagegrid name="gamegrid">
+			<size>0.66 0.76</size>
+			<autoLayout>4 2</autoLayout>
+			<margin>0.005 0.010</margin>
+			<padding>0.03 0.05 0.03 0.04</padding>
+		</imagegrid>
+<!--		<text name="gridtile">
+			<size>0 0</size>
+		</text> -->
+		<image name="gamelistBackground" extra="true">
+			<path>./_inc/images/space.png</path>
+			<color>141414</color>
+			<origin>0 0</origin>
+			<pos>0.66 0.16</pos>
+			<size>0.34 0.774</size>
+			<zIndex>12</zIndex>
+		</image>
+		<image name="md_image">
+			<visible>false</visible>
+		</image>
+		<text name="md_name">
+			<pos>0.68 0.188</pos>
+			<size>0.30 0.05</size>
+			<color>F0F0F0</color>
+			<fontSize>0.02</fontSize>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<alignment>center</alignment>
+			<glowColor>${glowColor}</glowColor>
+			<glowSize>2</glowSize>
+		</text>
+		<text name="md_developer">
+			<color>666666</color>
+			<pos>0.68 0.875</pos>
+			<size>0.30 0.05</size>
+			<alignment>left</alignment>
+			<fontSize>0.02</fontSize>
+			<glowSize>0</glowSize>
+		</text>
+		<video name="md_video">
+			<pos>0.83 0.455</pos>
+			<maxSize>0.30 0.3833333333333333</maxSize>
+			<origin>0.5 0.5</origin>
+			<delay>0.1</delay>
+			<default>./_inc/videos/static.mp4</default>
+			<showSnapshotNoVideo>false</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<effect>none</effect>
+			<zIndex>110</zIndex>
+		</video>
+		<image name="md_marquee">
+			<origin>0 0</origin>
+			<pos>1 1</pos>
+		</image>
+		<image name="video-background" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.83 0.455</pos>
+			<size>0.30625 0.3944444444444444</size>
+			<path>./_inc/images/space.png</path>
+			<color>333333ff</color>
+			<zIndex>100</zIndex>
+		</image>
+		<image name="video-screen" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.83 0.455</pos>
+			<size>0.30 0.3833333333333333</size>
+			<path>./_inc/images/space.png</path>
+			<color>000000</color>
+			<zIndex>105</zIndex>
+		</image>
+		<text name="md_description">
+			<pos>0.68 0.678</pos>
+			<size>0.30 0.20</size>
+			<fontSize>0.02</fontSize>
+			<color>A0A0B0</color>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+		</text>
+		<rating name="md_rating">
+			<pos>0.9 0.886</pos>
+			<size>0.05 0.03</size>
+			<color>666666</color>
+		</rating>
+	</customView>
+	<customView name="Carousel" inherits="grid" tinyScreen="false" displayName="${carouselViewName}">
+		<text name="md_name">
+			<color>ffffffff</color>
+			<pos>0.04 0.76</pos>
+			<size>0.92 0.10</size>
+			<alignment>center</alignment>
+			<glowColor>00000016</glowColor>
+			<glowSize>4</glowSize>
+		</text>
+		<text name="md_developer">
+			<color>808080ff</color>
+			<pos>0.04 0.80</pos>
+			<size>0.92 0.10</size>
+			<alignment>center</alignment>
+			<fontSize>0.020</fontSize>
+			<glowColor>00000016</glowColor>
+			<glowSize>3</glowSize>
+		</text>
+		<imagegrid name="gamegrid">
+			<pos>0 0.05</pos>
+			<size>1 1</size>
+			<padding>0.05 0.14 0.05 0.30</padding>
+			<scrollDirection>horizontal</scrollDirection>
+			<autoLayout>5 1</autoLayout>
+			<autoLayoutSelectedZoom>1.50</autoLayoutSelectedZoom>
+			<margin>0.005 0.010</margin>
+			<centerSelection>true</centerSelection>
+			<scrollLoop>true</scrollLoop>
+		</imagegrid>
+		<gridtile name="default">
+			<padding>64 16</padding>
+			<backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+			<backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+			<imageSizeMode>maxSize</imageSizeMode>
+			<imageColor>FFFFFFAA</imageColor>
+			<reflexion>0.24 0.0</reflexion>
+		</gridtile>
+		<gridtile name="selected">
+			<backgroundCenterColor>FFFFFF00</backgroundCenterColor>
+			<backgroundEdgeColor>FFFFFF00</backgroundEdgeColor>
+			<padding>64 16</padding>
+		</gridtile>
+		<text name="gridtile">
+			<color>80808080</color>
+			<fontSize>0.016</fontSize>
+			<size>1 0</size>
+		</text>
+		<text name="gridtile_selected">
+			<color>FFFFFF00</color>
+			<fontSize>0.035</fontSize>
+			<size>1 0</size>
+		</text>
+		<image name="gridtile.favorite">
+			<path>./_inc/images/starfar4.svg</path>
+			<pos>0.95 0.05</pos>
+			<maxSize>0.10 0.10</maxSize>
+			<origin>0.5 0.5</origin>
+			<horizontalAlignment>right</horizontalAlignment>
+			<color>${baseColor}</color>
+		</image>
+	</customView>
+	<customView name="Carousel + Details" inherits="Carousel" displayName="${carouselDetailsViewName}">
+		<imagegrid name="gamegrid">
+			<pos>0 0.05</pos>
+			<size>0.66 1</size>
+			<autoLayout>3 1</autoLayout>
+			<padding>0.01 0.18 0.01 0.24</padding>
+		</imagegrid>
+		<image name="gamelistBackground" extra="true">
+			<path>./_inc/images/space.png</path>
+			<color>141414</color>
+			<origin>0 0</origin>
+			<pos>0.66 0.16</pos>
+			<size>0.34 0.774</size>
+			<zIndex>12</zIndex>
+		</image>
+		<image name="md_image">
+			<visible>false</visible>
+		</image>
+		<text name="md_name">
+			<color>ffffffff</color>
+			<pos>0.68 0.188</pos>
+			<size>0.30 0.05</size>
+			<color>F0F0F0</color>
+			<fontSize>0.02</fontSize>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+			<alignment>center</alignment>
+			<glowColor>${glowColor}</glowColor>
+			<glowSize>2</glowSize>
+		</text>
+		<text name="md_developer">
+			<color>666666</color>
+			<pos>0.68 0.875</pos>
+			<size>0.30 0.05</size>
+			<alignment>left</alignment>
+			<fontSize>0.02</fontSize>
+			<glowSize>0</glowSize>
+		</text>
+		<video name="md_video">
+			<pos>0.83 0.455</pos>
+			<maxSize>0.30 0.3833333333333333</maxSize>
+			<origin>0.5 0.5</origin>
+			<delay>0.1</delay>
+			<default>./_inc/videos/static.mp4</default>
+			<showSnapshotNoVideo>false</showSnapshotNoVideo>
+			<showSnapshotDelay>false</showSnapshotDelay>
+			<effect>none</effect>
+			<zIndex>110</zIndex>
+		</video>
+		<image name="md_marquee">
+			<origin>0 0</origin>
+			<pos>1 1</pos>
+		</image>
+		<image name="video-background" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.83 0.455</pos>
+			<size>0.30625 0.3944444444444444</size>
+			<path>./_inc/images/space.png</path>
+			<color>333333ff</color>
+			<zIndex>100</zIndex>
+		</image>
+		<image name="video-screen" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.83 0.455</pos>
+			<size>0.30 0.3833333333333333</size>
+			<path>./_inc/images/space.png</path>
+			<color>000000</color>
+			<zIndex>105</zIndex>
+		</image>
+		<text name="md_description">
+			<pos>0.68 0.678</pos>
+			<size>0.30 0.20</size>
+			<fontSize>0.02</fontSize>
+			<color>A0A0B0</color>
+			<fontPath>./art/conthrax-sb.ttf</fontPath>
+		</text>
+		<rating name="md_rating">
+			<pos>0.9 0.886</pos>
+			<size>0.05 0.03</size>
+			<color>666666</color>
+		</rating>
+	</customView>
+	
+	<customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
+		<imagegrid name="gamegrid">
+			<autoLayout>3 2</autoLayout>
+			<autoLayoutSelectedZoom>1.02</autoLayoutSelectedZoom>
+			<imageSource>image</imageSource>
+			<margin>0.005 0.010</margin>
+			<padding>0.03 0.05 0.03 0.04</padding>
+			<zIndex>11</zIndex>
+		</imagegrid>
+		<gridtile name="default">
+			<size>0.225 0.254</size>
+			<backgroundCenterColor>FFFFFF20</backgroundCenterColor>
+			<backgroundEdgeColor>FFFFFF20</backgroundEdgeColor>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<padding>1 1</padding>
+			<imageSizeMode>minSize</imageSizeMode>
+			<imageColor>FFFFFFAA</imageColor>
+		</gridtile>
+		<gridtile name="selected">
+			<size>0.230 0.259</size>
+			<padding>2 2</padding>
+			<backgroundCornerSize>0 0</backgroundCornerSize>
+			<imageColor>FFFFFFFF</imageColor>
+		</gridtile>
+		<text name="gridtile">
+			<color>D0D0D0D0</color>
+			<backgroundColor>00000000</backgroundColor>
+			<fontSize>0.028</fontSize>
+			<alignment>center</alignment>
+			<size>0 0.18</size>
+			<glowColor>00000008</glowColor>
+			<glowSize>3</glowSize>
+		</text>
+		<text name="gridtile_selected">
+			<color>FFFFFF</color>
+			<glowColor>${glowColor}</glowColor>
+			<glowSize>3</glowSize>
+		</text>
+	</customView>
+	
+	<customView name="Tiles + Video" inherits="Tiles" displayName="${tilesVideoViewName}">
+		<imagegrid name="gamegrid">
+			<showVideoAtDelay>200</showVideoAtDelay>
+		</imagegrid>
+	</customView>
+	
+	<customView name="Detailed No Video" inherits="detailed" displayName="${NoVideoDetailsViewName}">
+		<video name="md_video">
+			<pos>1 1</pos>
+			<size>0 0</size>
+			<zIndex>0</zIndex>
+			<visible>false</visible>
+		</video>
+		<image name="video-background" extra="true">
+			<pos>1 1</pos>
+			<size>0 0</size>
+			<zIndex>0</zIndex>
+		</image>
+		<image name="video-screen" extra="true">
+			<pos>1 1</pos>
+			<size>0 0</size>
+			<zIndex>0</zIndex>
+		</image>
+	</customView>
+	
+</theme>

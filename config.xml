@@ -1,0 +1,19 @@
+﻿<theme>
+    <formatVersion>7</formatVersion>
+	
+	<include subset="systemview" name="Wheel Right - No Info">./systemview/wheeldroite.xml</include>
+	<include subset="systemview" name="Wheel Left - No Info">./systemview/wheelgauche.xml</include>
+	<include subset="systemview" name="Horizontal - No Info">./systemview/normal.xml</include>
+	<include subset="systemview" name="Vertical Right - No Info">./systemview/verticaldroit.xml</include>
+	<include subset="systemview" name="Vertical Left - No Info">./systemview/verticalgauche.xml</include>
+	<include subset="systemview" name="Wheel Right - System Info">./systemview/wheeldroite-info.xml</include>
+	<include subset="systemview" name="Wheel Left - System Info">./systemview/wheelgauche-info.xml</include>
+	<include subset="systemview" name="Horizontal - System Info">./systemview/normal-info.xml</include>
+	<include subset="systemview" name="Vertical Right - System Info">./systemview/verticaldroit-info.xml</include>
+	<include subset="systemview" name="Vertical Left - System Info">./systemview/verticalgauche-info.xml</include>
+
+	
+	<include subset="colorset" name="blue" displayName="${blue}">./_inc/colors/blue.xml</include>
+	<include subset="colorset" name="red" displayName="${red}">./_inc/colors/red.xml</include>
+	<include subset="colorset" name="green" displayName="${green}">./_inc/colors/green.xml</include>
+</theme>
