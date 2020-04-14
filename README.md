@@ -14,3 +14,12 @@ https://github.com/CkauNui/ckau-book
 
 SamYStudiO - Some inspiration for the information blocks
 https://github.com/SamYStudiO/es-theme-next-pixel
+
+ToDo
+Create Template Logo Icon for bar logo
+Fix amiga600 Logo
+Add US/EU/JP logo variants for systems that have variants
+Add US/EU/JP config options
+Change Strings to Variables and configure translations
+
+
