@@ -2,6 +2,9 @@
   <formatVersion>4</formatVersion>
   <include>./../simple.xml</include>
   <view name="basic, detailed">
+    <image name="background">
+      <path>./art/fond.jpg</path>
+    </image>
     <text name="system_name_1" extra="true">
       <text></text>
       <forceUppercase>1</forceUppercase>

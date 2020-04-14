@@ -18,8 +18,16 @@ https://github.com/SamYStudiO/es-theme-next-pixel
 ToDo
 Create Template Logo Icon for bar logo
 Fix amiga600 Logo
+Better Console image for cavestory
 Add US/EU/JP logo variants for systems that have variants
 Add US/EU/JP config options
 Change Strings to Variables and configure translations
+ChannelF information/logos
+Better LightGun Console image
+Background Console Regionalization
+US Nintendo Image
+US Genesis Image
+US Turbografx Image
+ORIC theme section
 
 
