@@ -6,7 +6,10 @@ Special thanks to Genetik57, TheMiniCakeTV, Ckau, SamYStudio and anyone else who
 Genetik57 version of Next-Level - The one I began working with
 https://github.com/Genetik57/es-theme-next-level-v4-TMCTV
 
-TheMiniCakeTV - The original Next Level theme
+KOT Productions - The original Next Level Theme
+https://www.facebook.com/kotproduction/
+
+TheMiniCakeTV - Modifications to Next Level Theme
 http://theminicaketv.free.fr/
 
 Ckau - the views beyond basic and detailed
