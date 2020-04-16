@@ -16,7 +16,6 @@ SamYStudiO - Some inspiration for the information blocks
 https://github.com/SamYStudiO/es-theme-next-pixel
 
 ToDo
-Create Template Logo Icon for bar logo
 Fix amiga600 Logo
 Better Console image for cavestory
 Add US/EU/JP logo variants for systems that have variants
@@ -29,5 +28,6 @@ US Nintendo Image
 US Genesis Image
 US Turbografx Image
 ORIC theme section
+Create a new Template for new systems
 
 
