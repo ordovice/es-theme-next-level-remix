@@ -12,6 +12,11 @@
 	<include subset="infoset" name="Lower Right" displayName="${red}">./_inc/infoview/left.xml</include>
 	<include subset="infoset" name="Upper Center" displayName="${green}">./_inc/infoview/mid.xml</include>
 	
+	
+	<include subset="regions" name="US" displayName="${none}">./_inc/regions/us.xml</include>	
+	<include subset="regions" name="EU" displayName="${blue}">./_inc/regions/eu.xml</include>
+	<include subset="regions" name="JP" displayName="${red}">./_inc/regions/jp.xml</include>
+	
 	<include subset="backgroundimages" name="Standard" displayName="${bg-std}">./_inc/backgrounds/standard.xml</include>	
 	<include subset="backgroundimages" name="Consoles" displayName="${bg-consoles}">./_inc/backgrounds/consoles.xml</include>	
 	

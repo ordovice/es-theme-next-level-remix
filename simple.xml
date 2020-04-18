@@ -13,15 +13,6 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 	<include>./${system.theme}/custom.xml</include>
 	
 	<view name="screen">
-		<text name="clock">
-			<color>777777FF</color>
-			<fontSize>0.035</fontSize>
-			<pos>0.90 0.936</pos>
-			<size>0.09 0.058</size>
-			<alignment>right</alignment>
-			<verticalAlignment>center</verticalAlignment>
-			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-		</text>
 		<controllerActivity name="controllerActivity">
 			<pos>0.005 0.005</pos>
 			<size>0.085 0.025</size>

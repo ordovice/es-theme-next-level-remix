@@ -4,19 +4,19 @@
 		<carousel name="systemcarousel">
 			<type>horizontal</type>
 			<pos>0.0 0.09</pos>
-            <size>1.0 0.891</size>
+			<size>1.0 0.891</size>
 			<color>00000000</color>
 			<logoScale>1.4</logoScale>
-            <logoSize>0.240 0.200</logoSize>
+			<logoSize>0.240 0.200</logoSize>
 			<maxLogoCount>3</maxLogoCount> 
 		</carousel>
 		<text name="systemInfo">
-         <pos>0.0 0.61</pos>
-         <backgroundColor>00000000</backgroundColor>
-         <color>ECECEC</color>
-         <fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
-	 <fontSize>0.02</fontSize>
-      </text>
+			<pos>0.0 0.61</pos>
+			<backgroundColor>00000000</backgroundColor>
+			<color>ECECEC</color>
+			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
 		<image name="background" extra="true">
 			<size>0 1</size>
 			<pos>0.5 0.5</pos>
@@ -34,6 +34,17 @@
 			<fontSize>0.017</fontSize>
 			<pos>2 2</pos>
 			<color>ffffff</color>
+		</text>
+	</view>
+	<view name="screen">
+		<text name="clock">
+			<color>777777FF</color>
+			<fontSize>0.035</fontSize>
+			<pos>0.90 0.936</pos>
+			<size>0.09 0.058</size>
+			<alignment>right</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 		</text>
 	</view>
 </theme>

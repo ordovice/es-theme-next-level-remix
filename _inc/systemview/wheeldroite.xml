@@ -1,7 +1,7 @@
 ﻿<theme>
 	<formatVersion>7</formatVersion>
-		<view name="system">
-			<carousel name="systemcarousel">
+	<view name="system">
+		<carousel name="systemcarousel">
 			<type>vertical_wheel</type>
 			<pos>0 0</pos>
 			<size>1 1</size>
@@ -17,9 +17,9 @@
 		</carousel>
 		<text name="systemInfo">
 			<pos>0.3 0.569</pos>
-			 <backgroundColor>00000000</backgroundColor>
-			 <color>ECECEC</color>
-			 <fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
+			<backgroundColor>00000000</backgroundColor>
+			<color>ECECEC</color>
+			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.017</fontSize>
 		</text>
 		<image name="background" extra="true">
@@ -39,6 +39,18 @@
 			<fontSize>0.017</fontSize>
 			<pos>2 2</pos>
 			<color>ffffff</color>
+		</text>
+	</view>
+
+	<view name="screen">
+		<text name="clock">
+			<color>777777FF</color>
+			<fontSize>0.035</fontSize>
+			<pos>0.01 0.936</pos>
+			<size>0.09 0.058</size>
+			<alignment>right</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 		</text>
 	</view>
 </theme>

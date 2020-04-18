@@ -41,4 +41,15 @@
 			<color>ffffff</color>
 		</text>
 	</view>
+	<view name="screen">
+		<text name="clock">
+			<color>777777FF</color>
+			<fontSize>0.035</fontSize>
+			<pos>0.90 0.936</pos>
+			<size>0.09 0.058</size>
+			<alignment>right</alignment>
+			<verticalAlignment>center</verticalAlignment>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+		</text>
+	</view>
 </theme>
