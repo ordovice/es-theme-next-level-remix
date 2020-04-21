@@ -1,38 +1,55 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : </text>
+			<text>Release Date: October 4, 1993</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : </text>
+			<text>Developer: The 3DO Company</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>OS : </text>
+			<text>CPU: 32-bit RISC CPU ARM60</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : </text>
+			<text>Memory: 2 MB RAM, 1 MB VRAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : </text>
+			<text>Graphics: Panasonic FZ-1</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>ROM : </text>
+			<text>Sound: 16-bit stereo sound</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>GPU : </text>
+			<text>Media: CD-ROM</text>
 		</text>
+
 		<text name="info8" extra="true">
-			<text>Sound chip : </text>
+			<text>Best Selling Game: GEX</text>
 		</text>
+
 		<text name="info9" extra="true">
-			<text>Resolution : </text>
+			<text>The 3DO was not a console manufactured by the company itself, but a</text>
 		</text>
-		
+
+		<text name="info10" extra="true">
+			<text>series of specifications that could be licensed by third parties.</text>
+
+		</text>
+
+		<text name="info11" extra="true">
+			<text>Panasonic produced the first models in 1993.</text>
+		</text>
+
 	</view>
 
-	
+
 </theme>

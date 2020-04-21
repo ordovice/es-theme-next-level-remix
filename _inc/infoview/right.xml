@@ -9,7 +9,7 @@
 		</text>
 		<image name="info_background" extra="true">
 			<!--<tile>true</tile>-->
-			<size>.4 .24</size>
+			<size>.5 .24</size>
 			<pos>.05 .66</pos>
 			<path>./../_inc/images/fiber.png</path>
 			<color>ffffff60</color>
