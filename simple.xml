@@ -14,13 +14,10 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 
 	<view name="screen">
 		<controllerActivity name="controllerActivity">
-			<pos>0.01 0.012</pos>
-			<size>0.085 0.025</size>
 			<itemSpacing>0.003</itemSpacing>
-			<imagePath>./_inc/images/gamepad.svg</imagePath>
 			<color>FFFFFF80</color>
-			<activityColor>A0A0FFC0</activityColor>
-			<hotkeyColor>FFA0A0C0</hotkeyColor>
+			<activityColor>3030FFD0</activityColor>
+			<hotkeyColor>3030FFD0</hotkeyColor>
 		</controllerActivity>
 	</view>
 
