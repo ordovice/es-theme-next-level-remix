@@ -32,6 +32,32 @@ US Turbografx Image
 o2em - odyssey 2
 Create a new Template for new systems
 
+Custom collections
+		{ CPS1_COLLECTION,      "zcps1",       "cps1",                  FileSorts::FILENAME_ASCENDING,    "cps1",                    false,       false },
+		{ CPS2_COLLECTION,      "zcps2",       "cps2",                  FileSorts::FILENAME_ASCENDING,    "cps2",                    false,       false },
+		{ CPS3_COLLECTION,      "zcps3",       "cps3",                  FileSorts::FILENAME_ASCENDING,    "cps3",                    false,       false },
+		{ CAVE_COLLECTION,      "zcave",       "cave",                  FileSorts::FILENAME_ASCENDING,    "cave",                    false,       false },
+		{ NEOGEO_COLLECTION,    "zneogeo",     "neogeo",                FileSorts::FILENAME_ASCENDING,    "neogeo",                  false,       false },
+		{ SEGA_COLLECTION,      "zsega",       "sega",                  FileSorts::FILENAME_ASCENDING,    "sega",                    false,       false },
+		{ IREM_COLLECTION,      "zirem",       "irem",                  FileSorts::FILENAME_ASCENDING,    "irem",                    false,       false },
+		{ MIDWAY_COLLECTION,    "zmidway",     "midway",                FileSorts::FILENAME_ASCENDING,    "midway",                  false,       false },
+		{ CAPCOM_COLLECTION,    "zcapcom",     "capcom",                FileSorts::FILENAME_ASCENDING,    "capcom",                  false,       false },
+		{ TECMO_COLLECTION,     "ztecmo",      "tecmo",                 FileSorts::FILENAME_ASCENDING,    "tecmo",                   false,       false },
+		{ SNK_COLLECTION,       "zsnk",        "snk",                   FileSorts::FILENAME_ASCENDING,    "snk",                     false,       false },
+		{ NAMCO_COLLECTION,     "znamco",      "namco",                 FileSorts::FILENAME_ASCENDING,    "namco",                   false,       false },
+		{ TAITO_COLLECTION,     "ztaito",      "taito",                 FileSorts::FILENAME_ASCENDING,    "taito",                   false,       false },
+		{ KONAMI_COLLECTION,    "zkonami",     "konami",                FileSorts::FILENAME_ASCENDING,    "konami",                  false,       false },
+		{ JALECO_COLLECTION,    "zjaleco",     "jaleco",                FileSorts::FILENAME_ASCENDING,    "jaleco",                  false,       false },
+		{ ATARI_COLLECTION,     "zatari",      "atari",                 FileSorts::FILENAME_ASCENDING,    "atari",                   false,       false },
+		{ NINTENDO_COLLECTION,  "znintendo",   "nintendo",              FileSorts::FILENAME_ASCENDING,    "nintendo",                false,       false },
+		{ SAMMY_COLLECTION,     "zsammy",      "sammy",                 FileSorts::FILENAME_ASCENDING,    "sammy",                   false,       false },
+		{ ACCLAIM_COLLECTION,   "zacclaim",    "acclaim",               FileSorts::FILENAME_ASCENDING,    "acclaim",                 false,       false },
+		{ PSIKYO_COLLECTION,    "zpsiko",      "psiko",                 FileSorts::FILENAME_ASCENDING,    "psiko",                   false,       false },
+		{ KANEKO_COLLECTION,    "zkaneko",     "kaneko",                FileSorts::FILENAME_ASCENDING,    "kaneko",                  false,       false },
+		{ COLECO_COLLECTION,    "zcoleco",     "coleco",                FileSorts::FILENAME_ASCENDING,    "coleco",                  false,       false },
+		{ ATLUS_COLLECTION,     "zatlus",      "atlus",                 FileSorts::FILENAME_ASCENDING,    "atlus",                   false,       false },
+		{ BANPRESTO_COLLECTION, "zbanpresto",  "banpresto",             FileSorts::FILENAME_ASCENDING,    "banpresto",  
+
 
 License - From https://github.com/SamYStudiO/es-theme-next-pixel
 
