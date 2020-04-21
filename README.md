@@ -1,7 +1,7 @@
 # next-level-remix
 This is a theme using elements from several other themes.
 
-##Thanks
+## Thanks
 Special thanks to Genetik57, TheMiniCakeTV, Ckau, SamYStudio and anyone else who's had a design element I've used.  
 
 Genetik57 version of Next-Level - The one I began working with
@@ -19,7 +19,7 @@ https://github.com/CkauNui/ckau-book
 SamYStudiO - Some inspiration for the information blocks
 https://github.com/SamYStudiO/es-theme-next-pixel
 
-##ToDo
+## ToDo
 - [ ] Add US/EU/JP logo variants for systems that have variants
 - [ ] Add US/EU/JP console variants for systems that have variants
 - [x] Add US/EU/JP config options
@@ -27,7 +27,7 @@ https://github.com/SamYStudiO/es-theme-next-pixel
 - [x] Better LightGun Console image
 - [ ] Provide template instructions to add new systems
 
-##License - From https://github.com/SamYStudiO/es-theme-next-pixel
+## License - From https://github.com/SamYStudiO/es-theme-next-pixel
 
 MIT License
 
@@ -38,7 +38,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
-##Collection Status
+## Collection Status
 |*name*|*Logo*|*ConsoleArt*|*StandardArt*|*Sounds*|
 |------|------|------------|-------------|--------|
 |3do|||||
