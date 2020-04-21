@@ -7,31 +7,31 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 -->
 
 <theme>
-    <formatVersion>7</formatVersion>
+	<formatVersion>7</formatVersion>
 
 	<include>./config.xml</include>
 	<include>./${system.theme}/custom.xml</include>
-	
+
 	<view name="screen">
 		<controllerActivity name="controllerActivity">
-			<pos>0.005 0.005</pos>
+			<pos>0.01 0.012</pos>
 			<size>0.085 0.025</size>
 			<itemSpacing>0.003</itemSpacing>
 			<imagePath>./_inc/images/gamepad.svg</imagePath>
-			<color>FFFFFF90</color>
-			<activityColor>FFA0A090</activityColor>
-			<hotkeyColor>FFA0A090</hotkeyColor>
+			<color>FFFFFF80</color>
+			<activityColor>A0A0FFC0</activityColor>
+			<hotkeyColor>FFA0A0C0</hotkeyColor>
 		</controllerActivity>
 	</view>
 
-    <view name="menu">
+	<view name="menu">
 		<text name="systemInfo">
-            <pos>0.0 0.61</pos>
-            <backgroundColor>00000000</backgroundColor>
-            <color>ECECEC</color>
-            <fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-	        <fontSize>0.02</fontSize>
-      </text>
+			<pos>0.0 0.61</pos>
+			<backgroundColor>00000000</backgroundColor>
+			<color>ECECEC</color>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.02</fontSize>
+		</text>
 		<menuText name="menufooter">
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.02</fontSize>
@@ -56,7 +56,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<color>DFECFA</color>
 		</menuText>
 		<menuBackground name="menubg">
-		    <color>2D2C2C</color>
+			<color>2D2C2C</color>
 			<path>./_inc/images/frame.png</path>
 			<fadePath>./_inc/images/fond_menu.png</fadePath>
 		</menuBackground>
@@ -70,21 +70,21 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<path>./sounds/system.ogg</path>
 		</sound>
 		<helpsystem name="help">
-		  <textColor>8e8e8e</textColor>
-		  <iconColor>8e8e8e</iconColor>
-		  <fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-		  <fontSize>0.014</fontSize>
-		  <pos>0.36 0.978</pos>
+			<textColor>8e8e8e</textColor>
+			<iconColor>8e8e8e</iconColor>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.014</fontSize>
+			<pos>0.36 0.978</pos>
 		</helpsystem>
 	</view>
-	
-    <view name="basic, detailed, grid">
+
+	<view name="basic, detailed, grid">
 		<helpsystem name="help">
-		  <textColor>5e5e5e</textColor>
-		  <iconColor>5e5e5e</iconColor>
-		  <fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
-		  <fontSize>0.011</fontSize>
-		  <pos>0.309 0.968</pos>
+			<textColor>5e5e5e</textColor>
+			<iconColor>5e5e5e</iconColor>
+			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontSize>0.011</fontSize>
+			<pos>0.309 0.968</pos>
 		</helpsystem>
 
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount, md_lbl_favorite">
@@ -94,7 +94,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<fontSize>0.02</fontSize>
 			<size>0.12 0.04</size>
 		</text>
-		
+
 		<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount, md_favorite">
 			<color>DFDCDC</color>
 			<forceUppercase>1</forceUppercase>
@@ -109,7 +109,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.017</fontSize>
 		</text>
-		
+
 		<datetime name="md_releasedate, md_lastplayed">
 			<color>DFDCDC</color>
 			<forceUppercase>1</forceUppercase>
@@ -117,7 +117,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<fontSize>0.02</fontSize>
 			<size>0 0.04</size>
 		</datetime>
-		
+
 		<image name="header" extra="true">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
@@ -132,13 +132,13 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<path>./_inc/images/footer.jpg</path>
 		</image>	
 
-        <image name="backgroundfilter" extra="true">
+		<image name="backgroundfilter" extra="true">
 			<pos>0 0</pos>
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./_inc/images/white40.png</path>
 		</image>
-		
+
 		<image name="logo">
 			<path>./${system.theme}/art/logo.png</path>
 			<pos>0.025 0.0775</pos>
@@ -156,9 +156,9 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<forceUppercase>1</forceUppercase>
 			<scrollSound>./_inc/sound/scroll.wav</scrollSound>
 		</textlist>
-		
+
 	</view>
-	
+
 	<view name="grid">
 		<imagegrid name="gamegrid">
 			<pos>0.025 0.16</pos>
@@ -234,7 +234,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<color>ffffff00</color>
 		</datetime>
 	</view>	
-	
+
 	<customView name="Grid + Details" inherits="grid" displayName="${gridDetailsViewName}">
 		<imagegrid name="gamegrid">
 			<size>0.66 0.76</size>
@@ -242,7 +242,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<margin>0.005 0.010</margin>
 			<padding>0.03 0.05 0.03 0.04</padding>
 		</imagegrid>
-<!--		<text name="gridtile">
+		<!--	<text name="gridtile">
 			<size>0 0</size>
 		</text> -->
 		<image name="gamelistBackground" extra="true">
@@ -462,7 +462,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<color>666666</color>
 		</rating>
 	</customView>
-	
+
 	<customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
 		<imagegrid name="gamegrid">
 			<autoLayout>3 2</autoLayout>
@@ -502,13 +502,13 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<glowSize>3</glowSize>
 		</text>
 	</customView>
-	
+
 	<customView name="Tiles + Video" inherits="Tiles" displayName="${tilesVideoViewName}">
 		<imagegrid name="gamegrid">
 			<showVideoAtDelay>200</showVideoAtDelay>
 		</imagegrid>
 	</customView>
-	
+
 	<customView name="Detailed No Video" inherits="detailed" displayName="${NoVideoDetailsViewName}">
 		<video name="md_video">
 			<pos>1 1</pos>
@@ -527,5 +527,5 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<zIndex>0</zIndex>
 		</image>
 	</customView>
-	
+
 </theme>

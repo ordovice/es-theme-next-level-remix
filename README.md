@@ -1,6 +1,7 @@
 # next-level-remix
 This is a theme using elements from several other themes.
 
+#Thanks
 Special thanks to Genetik57, TheMiniCakeTV, Ckau, SamYStudio and anyone else who's had a design element I've used.  
 
 Genetik57 version of Next-Level - The one I began working with
@@ -18,18 +19,15 @@ https://github.com/CkauNui/ckau-book
 SamYStudiO - Some inspiration for the information blocks
 https://github.com/SamYStudiO/es-theme-next-pixel
 
-ToDo
-Better Console image for cavestory
+#ToDo
 Add US/EU/JP logo variants for systems that have variants
 Add US/EU/JP config options
-Change Strings to Variables and configure translations
-ChannelF information/logos
+Change Strings to Variables where possible
 Better LightGun Console image
 Background Console Regionalization
 US Nintendo Image
 US Genesis Image
 US Turbografx Image
-o2em - odyssey 2
 Create a new Template for new systems
 
 Custom collections
