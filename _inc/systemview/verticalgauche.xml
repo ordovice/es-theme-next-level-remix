@@ -19,7 +19,7 @@
 			<pos>-0.31 0.569</pos>
 			<backgroundColor>00000000</backgroundColor>
 			<color>ECECEC</color>
-			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontPath>./../fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.017</fontSize>
 		</text>
 		<image name="background" extra="true">
@@ -32,10 +32,10 @@
 			<size>1 1</size>
 			<pos>0 0</pos>
 			<origin>0 0</origin>
-			<path>./../_inc/halos/halo2.png</path>
+			<path>./../halos/halo2.png</path>
 		</image>
 		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
-			<fontPath>./../_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontPath>./../fonts/conthrax-sb.ttf</fontPath>
 			<fontSize>0.017</fontSize>
 			<pos>2 2</pos>
 			<color>ffffff</color>
@@ -49,7 +49,7 @@
 			<size>0.09 0.058</size>
 			<alignment>right</alignment>
 			<verticalAlignment>center</verticalAlignment>
-			<fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
+			<fontPath>./../fonts/conthrax-sb.ttf</fontPath>
 		</text>
 	</view>
 </theme>

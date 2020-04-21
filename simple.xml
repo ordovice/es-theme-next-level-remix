@@ -75,8 +75,6 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 		  <fontPath>./_inc/fonts/conthrax-sb.ttf</fontPath>
 		  <fontSize>0.014</fontSize>
 		  <pos>0.36 0.978</pos>
-		  <size>.2 0</size>
-		  <alignment>center</alignment>
 		</helpsystem>
 	</view>
 	

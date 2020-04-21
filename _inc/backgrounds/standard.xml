@@ -1,12 +1,5 @@
 <theme>
 	<formatVersion>7</formatVersion>
-    <view name="menu">
-		<menuBackground name="menubg">
-		    <color>2D2C2C</color>
-			<path>./../arts/frame.png</path>
-			<fadePath>./_inc/images/fond_menu.png</fadePath>
-		</menuBackground>
-	</view>
 	<view name="system">
 		<image name="background" extra="true">
 			<path>./art/fond.jpg</path>
