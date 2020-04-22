@@ -14,7 +14,6 @@
 	<include subset="infoset" name="None" displayName="${none}">./_inc/infoview/none.xml</include>	
 	<include subset="infoset" name="Lower Right" displayName="${red}">./_inc/infoview/left.xml</include>
 	<include subset="infoset" name="Lower Left" displayName="${blue}">./_inc/infoview/right.xml</include>
-
 	<include subset="infoset" name="Upper Center" displayName="${green}">./_inc/infoview/mid.xml</include>
 
 	<include subset="logoset" name="Standard" displayName="${none}">./_inc/systemview/logos-std.xml</include>	
@@ -26,4 +25,6 @@
 	<include subset="colorset" name="blue" displayName="${blue}">./_inc/colors/blue.xml</include>
 	<include subset="colorset" name="red" displayName="${red}">./_inc/colors/red.xml</include>
 	<include subset="colorset" name="green" displayName="${green}">./_inc/colors/green.xml</include>
+	
+
 </theme>

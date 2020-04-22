@@ -3,18 +3,18 @@
 
 	<view name="system">
 		<image name="background">
-			<path>./art/console.jpg</path>
+			<path>./../../$system/art/console.jpg</path>
 		</image>
 		<image name="background" extra="true">
-			<path>./art/console-${region}.jpg</path>
+			<path>./../../$system/art/console-${region}.jpg</path>
 		</image>
 	</view>
 	<view name="basic, detailed, grid">
 		<image name="background">
-			<path>./art/console.jpg</path>
+			<path>./../../$system/art/console.jpg</path>
 		</image>
 		<image name="background" extra="true">
-			<path>./art/console-${region}.jpg</path>
+			<path>./../../$system/art/console-${region}.jpg</path>
 		</image>
 	</view>
 </theme>

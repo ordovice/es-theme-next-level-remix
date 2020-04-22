@@ -2,24 +2,81 @@
 	<formatVersion>7</formatVersion>
 	<view name="system">
 		<image name="logo">
-			<path>./../../${system.theme}/art/logo.png</path>
+			<path>./../../$system/art/logo.png</path>
 		</image>
 		<image name="logo">
-			<path>./../../${system.theme}/art/logo-${region}.png</path>
+			<path>./../../$system/art/logo-${region}.png</path>
 		</image>
 	</view>
 	<view name="basic, detailed, grid">
 		<image name="logo">
-			<path>./../../${system.theme}/art/logo.png</path>
+			<path>./../../$system/art/logo.png</path>
 			<pos>0.025 0.0775</pos>
 			<maxSize>0.55 0.1</maxSize>
 			<origin>0 0.5</origin>
 		</image>
 		<image name="logo">
-			<path>./../../${system.theme}/art/logo-${region}.png</path>
+			<path>./../../$system/art/logo-${region}.png</path>
 			<pos>0.025 0.0775</pos>
 			<maxSize>0.55 0.1</maxSize>
 			<origin>0 0.5</origin>
 		</image>
 	</view>
+
+	<customView name="Grid + Details" inherits="grid" displayName="${gridDetailsViewName}">
+		<image name="logo">
+			<path>./../../$system/art/logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+		<image name="logo">
+			<path>./../../$system/art/logo-${region}.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+	</customView>
+	<customView name="Carousel + Details" inherits="Carousel" displayName="${carouselDetailsViewName}">
+		<image name="logo">
+			<path>./../../$system/art/logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+		<image name="logo">
+			<path>./../../$system/art/logo-${region}.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+	</customView>
+	<customView name="Tiles" inherits="grid" displayName="${tilesViewName}">
+		<image name="logo">
+			<path>./../../$system/art/logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+		<image name="logo">
+			<path>./../../$system/art/logo-${region}.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+	</customView>
+	<customView name="Detailed No Video" inherits="detailed" displayName="${NoVideoDetailsViewName}">
+		<image name="logo">
+			<path>./../../$system/art/logo.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+		<image name="logo">
+			<path>./../../$system/art/logo-${region}.png</path>
+			<pos>0.025 0.0775</pos>
+			<maxSize>0.55 0.1</maxSize>
+			<origin>0 0.5</origin>
+		</image>
+	</customView>
 </theme>
