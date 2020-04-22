@@ -8,7 +8,7 @@
 		</text>
 		<image name="info_background" extra="true">
 			<!--<tile>true</tile>-->
-			<size>.5 .24</size>
+			<size>.5 .26</size>
 			<pos>.3 .08</pos>
 			<path>./../_inc/images/fiber.png</path>
 			<color>ffffff60</color>

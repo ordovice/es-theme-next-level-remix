@@ -42,15 +42,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 ## Collection Status
-|*name*|*Logo*|*ConsoleArt*|*StandardArt*|*Sounds*|*SystemInfo*|
-|------|------|------------|-------------|--------|------------|
+|*name*|*Logos*|*ConsoleArt*|*StandardArt*|*Sounds*|*SystemInfo*|
+|------|-------|------------|-------------|--------|------------|
 |3do|X|X|X|X|X|
 |3ds|X|X|X|X|X|
 |acclaim|X|||||
-|amiga|X|||||
-|amiga1200|X|||||
-|amiga500|X|X|X|||
-|amiga600|X|X|X|||
+|amiga|X|X|X|X|X|
+|amiga1200|X|X|X|X|X|
+|amiga500|X|X|X|X|X|
 |amigacd32|X|X|X|||
 |amigacdtv|X|X|X|||
 |amstradcpc|X|X|X|||
