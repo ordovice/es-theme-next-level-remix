@@ -60,9 +60,6 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 	</view>
 
 	<view name="system">
-		<image name="logo">
-			<path>./art/logo.png</path>
-		</image>
 		<sound name="bgsound">
 			<path>./sounds/system.ogg</path>
 		</sound>
@@ -134,13 +131,6 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./_inc/images/white40.png</path>
-		</image>
-
-		<image name="logo">
-			<path>./${system.theme}/art/logo.png</path>
-			<pos>0.025 0.0775</pos>
-			<maxSize>0.55 0.1</maxSize>
-			<origin>0 0.5</origin>
 		</image>
 
 		<textlist name="gamelist">

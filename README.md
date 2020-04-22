@@ -19,6 +19,9 @@ https://github.com/CkauNui/ckau-book
 SamYStudiO - Some inspiration for the information blocks
 https://github.com/SamYStudiO/es-theme-next-pixel
 
+RetroHursty - Alternate logos from es-theme-SmashBrosSpin-master
+https://github.com/RetroHursty69
+
 ## ToDo
 - [ ] Add US/EU/JP logo variants for systems that have variants
 - [ ] Add US/EU/JP console variants for systems that have variants
