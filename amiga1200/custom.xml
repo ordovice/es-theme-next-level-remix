@@ -31,10 +31,10 @@
 			<text>The Amiga 1200 is a 32 bit design, using a faster processor than its</text> .
 		</text>
 		<text name="info10" extra="true">
-			<text>predecessors. The AGA chipset used in the A1200 was a significant improvement.</text>
+			<text>predecessors. The AGA chipset used in the A1200 was a significant</text>
 		</text>
 		<text name="info11" extra="true">
-			<text></text>
+			<text>improvement over prior generations.</text>
 		</text>
 	</view>
 </theme>
