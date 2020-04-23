@@ -41,7 +41,11 @@
 		</text>
 
 		<text name="info10" extra="true">
-			<text>and one of the world's first highly successful mass-produced microcomputer products.</text>
+			<text>and one of the world's first highly successful mass-produced</text>
+		</text>
+
+		<text name="info11" extra="true">
+			<text>microcomputer products.</text>
 		</text>
 
 	</view>
