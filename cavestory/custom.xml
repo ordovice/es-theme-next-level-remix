@@ -3,24 +3,27 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Designer : Daisuke Amaya</text>
+			<text>Release Date: December 20, 2004</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Developer : Studio Pixel</text>
+			<text>Developer: Studio Pixel</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Type : Freeware platform-adventure</text>
+			<text>Genre: Platform-adventure</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Origin : Japan</text>
+			<text>Designer: Daisuke Amaya</text>
 		</text>
 		<text name="info5" extra="true">
 			<text>English translation : Aeon Genesis Translations</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>Year of first release : 2004</text>
+			<text></text>
 		</text>
 		<text name="info7" extra="true">
 			<text>The game focuses on an amnesiac protagonist who awakens in a cave.</text>
@@ -37,7 +40,7 @@
 		<text name="info11" extra="true">
 			<text>into the position of savior as he endeavors to defeat the Doctor.</text>
 		</text>
-		
+
 	</view>
-	
+
 </theme>
