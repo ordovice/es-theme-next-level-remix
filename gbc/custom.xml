@@ -3,39 +3,48 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Nintendo</text>
+			<text>Release Date: October 21, 1998</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1998 (JP, US, EU)</text>
+			<text>Developer: Nintendo</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 118.69 million</text>
+			<text>CPU: Sharp LR35902</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Pokemon Gold and Silver</text>
+			<text>Memory: 32 KB plus 16 KB VRAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : 8-bit Zilog Z80 @ 8.33 MHz</text>
+			<text>Graphics: N/A</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 32kB / VRAM : 26kB</text>
+			<text>Sound: 4 channel mono</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Video : PPU (embedded in CPU)</text>
+			<text>Media: Cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 160 x 144 pixels, 56 colors (32768 colors palette)</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Sound : 4 channels stereo sound</text>
+			<text>The Game Boy Color, is the successor to the original Game Boy.</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Cart Size : 256kB - 8MB</text>
+			<text>The Game Boy Color, as suggested by the name, features a color screen,</text>
 		</text>
-		
+		<text name="info11" extra="true">
+			<text>but no backlight. It is slightly thicker and taller than the Game Boy Pocket.</text>
+		</text>
+
 	</view>
 
-	
+
 </theme>
