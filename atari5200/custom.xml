@@ -3,32 +3,49 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Atari, Inc.</text>
+			<text>Release Date: November 1982</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1982 (US)</text>
+			<text>Developer: Atari, Inc.</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 1 million</text>
+			<text>CPU: MOS 6502C @ 1.79 MHz</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : MOS Technology 6502C 6502C @ 1.79 MHz</text>
+			<text>Memory: 16 KB</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : 16kB</text>
+			<text>Graphics: ANTIC and GTIA</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>ROM : 2KB on-board BIOS; 32 KB window for standard game cartridges</text>
+			<text>Sound: 4-channel PSG via POKEY chip</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Sound : 4-channel POKEY chip</text>
+			<text>Media: ROM cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Display : 320x192 pixels with 256 colors</text>
+			<text></text>
 		</text>
-		
+		<text name="info9" extra="true">
+			<text>The Atari 5200 SuperSystem was created to compete with the</text>
+		</text>
+
+		<text name="info10" extra="true">
+			<text>Intellivision, but wound up more directly competing with the</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>ColecoVision shortly after its release.</text>
+		</text>
+
+
 	</view>
-	
+
 </theme>

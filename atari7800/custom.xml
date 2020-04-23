@@ -3,33 +3,51 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Atari Corporation</text>
+			<text>Release Date: May 1986</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1986 (USA, JP) 1991 (EUR)</text>
+			<text>Developer: Atari, Inc.</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 3,77 million</text>
+			<text>CPU: Atari SALLY 6502 ("6502C")</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : Atari SALLY 6502 ("6502C") @ 1.19-1.79MHz</text>
+			<text>Memory: 4KB RAM, 4KB BIOS ROM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : 4KB</text>
+			<text>Graphics: MARIA custom chip clocked at 7.16MHz</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>Cartridge ROM : 48KB</text>
+			<text>Sound: 2 channel handled by the TIA</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Audio/Video Processor : TIA/MARIA custom graphics controller</text>
+			<text>Media: ROM cartridge</text>
 		</text>
+
 		<text name="info8" extra="true">
-			<text>Ports : 2 joystick ports, 1 cartridge port, 1 expansion connector, power in, RF output</text>
+			<text></text>
 		</text>
-		
+
+		<text name="info9" extra="true">
+			<text>The Atari 7800 is almost fully backward-compatible with the Atari</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>2600, the first console to have backward compatibility without the</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>use of additional modules.</text>
+		</text>
+
+
 	</view>
 
-	
+
 </theme>
