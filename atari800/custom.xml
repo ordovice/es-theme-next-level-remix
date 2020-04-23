@@ -1,35 +1,51 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Atari, Inc.</text>
+			<text>Release Date: November 1979</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1979</text>
+			<text>Developer: Atari, Inc.</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>OS : Atari OS</text>
+			<text>CPU: MOS Technology 6502B</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : MOS Technology 6502B @ 1.8 Mhz</text>
+			<text>Memory: 128K</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : 8kB base, 48 kB max.</text>
+			<text>Graphics: 384 pixels per TV line, 256 colors</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>ROM : 8KB (Atari Basic)</text>
+			<text>Sound: 4 × oscillators with noise mixing</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Sound : 4× oscillators with noise mixing</text>
+			<text>Media: ROM cartridge</text>
 		</text>
+
 		<text name="info8" extra="true">
-			<text>Display : 320x192 monochrome, 160x96 with 128 colors</text>
+			<text></text>
 		</text>
-			
+		<text name="info9" extra="true">
+			<text>The Atari 800 family is a series of 8-bit home computers</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>based on the MOS Technology 6502 CPU running at 1.79 MHz, and</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>were the first home computers designed with custom co-processor chips. </text>
+		</text>
+
 	</view>
 
-	
+
 </theme>
