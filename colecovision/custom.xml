@@ -3,38 +3,46 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Coleco</text>
+			<text>Release Date: August 1982</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1982 (US) 1983 (EU)</text>
+			<text>Developer: Coleco Industries, Inc.</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 2+ million</text>
+			<text>CPU: Zilog Z80</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Donkey Kong</text>
+			<text>Memory: 16 KB</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : Zilog Z80 @ 3.58 MHz</text>
+			<text>Graphics: TMS9928A</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 1kB / VRAM : 16kB</text>
+			<text>Sound: Texas Instruments SN76489A</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>Video : Texas Instruments TMS9928A</text>
+			<text>Media: ROM Cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 256x192, 16 colors</text>
+			<text>Best-selling game : Donkey Kong</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Sound : Texas Instruments SN76489A</text>
+			<text>The ColecoVision is Coleco's 2nd-gen video-game console. </text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Cart Size : 8kB - 32kB</text>
+			<text>The ColecoVision offered a closer experience to more powerful arcade</text>
 		</text>
-		
+		<text name="info10" extra="true">
+			<text>game systems along with the means to expand the system's basic hardware.</text>
+		</text>
+
 	</view>
 
 </theme>
