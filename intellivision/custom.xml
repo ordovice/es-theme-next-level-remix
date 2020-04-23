@@ -3,39 +3,49 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Mattel Electronics</text>
+			<text>Release Date: 1979</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1979 (US) 1981-1982 (EU) 1982 (JP)</text>
+			<text>Developer: Mattel Electronics, INTV Corporation</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 3+ million</text>
+			<text>CPU: GI CP1610</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Las Vegas Poker & Blackjack</text>
+			<text>Memory: 524B, 932B graphics, 7168B ROM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : GI CP1610 @ 894.886 kHz</text>
+			<text>Graphics: STIC 1B</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 1kB</text>
+			<text>Sound: GI AY-3-8914</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Video : General Instrument AY-3-8900-1</text>
+			<text>Media: ROM cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 159x96, 16 colors</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Sound : General Instrument AY-3-8914</text>
+			<text>The name Intellivision is a portmanteau of "intelligent television".</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Cart Size : 8kB - 32kB</text>
+			<text>Games development started in 1978 and continued until 1990 when the </text>
 		</text>
-		
+		<text name="info11" extra="true">
+			<text>Intellivision was discontinued. Over 3 million Intellivision units were sold.</text>
+		</text>
+
+
 	</view>
 
-	
+
 </theme>
