@@ -3,35 +3,48 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Nintendo</text>
+			<text>Release Date: July 15, 1983</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1986 (JP)</text>
+			<text>Developer: Nintendo RD2</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 4.44 million</text>
+			<text>CPU: Ricoh 2A03 8-bit processor </text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Super Mario Bros. 2</text>
+			<text>Memory: 2 KB RAM plus 2 KB video RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : Ricoh 2A03 8 Bit processor</text>
+			<text>Graphics: RP2C02 (NTSC) or RP2C07 (PAL) PPU</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 32 Ko</text>
+			<text>Sound: PSG 5 channel mono</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Disk space : 112 Ko</text>
+			<text>Media: ROM cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Audio/Video processor : Uses Famicom hardware</text>
+			<text>Media: ROM cartridge</text>
 		</text>
+
 		<text name="info9" extra="true">
-			<text>Ports : Uses Famicom hardware</text>
+			<text>The Family Computer Disk System is a peripheral for the,</text>
 		</text>
-		
+		<text name="info10" extra="true">
+			<text>released only in Japan on February 21, 1986. It uses proprietary</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>floppy disks called "Disk Cards" for cheaper data storage.</text>
+		</text>
+
 	</view>
-	
+
 </theme>
