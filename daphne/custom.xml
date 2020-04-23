@@ -17,18 +17,21 @@
 			<text>Written in : C++</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>Daphne is a program that lets one play the original</text>
+			<text></text>
 		</text>
 		<text name="info6" extra="true">
-			<text>versions of many LaserDisc arcade games.</text>
+			<text>Daphne is a program that lets one play the original</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>Hypseus is a fork of Daphne to improve</text>
+			<text>versions of many LaserDisc arcade games.</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>performance (MPEG2 decoder, SDL2 support, ...).</text>
+			<text>Hypseus is a fork of Daphne to improve</text>
 		</text>
 		<text name="info9" extra="true">
+			<text>performance (MPEG2 decoder, SDL2 support, ...).</text>
+		</text>
+		<text name="info10" extra="true">
 			<text>Best LaserDisc games are: Dragon's Lair, Space Ace, ...</text>
 		</text>
 		

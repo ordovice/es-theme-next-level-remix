@@ -23,7 +23,6 @@
 		<text name="info5" extra="true">
 			<text>Graphics: TMS9928A</text>
 		</text>
-
 		<text name="info6" extra="true">
 			<text>Sound: Texas Instruments SN76489A</text>
 		</text>
@@ -31,7 +30,7 @@
 			<text>Media: ROM Cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Best-selling game : Donkey Kong</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
 			<text>The ColecoVision is Coleco's 2nd-gen video-game console. </text>
@@ -39,7 +38,7 @@
 		<text name="info10" extra="true">
 			<text>The ColecoVision offered a closer experience to more powerful arcade</text>
 		</text>
-		<text name="info10" extra="true">
+		<text name="info11" extra="true">
 			<text>game systems along with the means to expand the system's basic hardware.</text>
 		</text>
 
