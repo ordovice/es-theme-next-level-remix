@@ -3,35 +3,44 @@
 	<formatVersion>4</formatVersion>
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Manufacturer : Sega</text>
+			<text>Release Date: November 27, 1998</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1998 (JP) 1999 (US/EU)</text>
+			<text>Developer: Sega</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 9.13 million</text>
+			<text>CPU: Hitachi SH-4 32-bit RISC @ 200 MHz</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : NFL 2K</text>
+			<text>Memory: 16 MB, 8 MB video, 2 MB audio</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : Hitachi SH-4 32-bit RISC @ 200 MHz</text>
+			<text>Graphics: 100 MHz PowerVR2</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 16 MB / 8 MB video / 2 MB audio</text>
+			<text>Sound: 67 MHz Yamaha AICA with 32-bit</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Video : 100 MHz PowerVR2</text>
-		</text>
-		<text name="info8" extra="true">
-			<text>Resolution : 640 x 480</text>
-		</text>
-		<text name="info9" extra="true">
-			<text>Sound : 67 MHz Yamaha AICA with 32-bit</text>
-		</text>
-		<text name="info10" extra="true">
 			<text>Media: GD-ROM</text>
 		</text>
-		
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Dreamcast was the first in the sixth generation of video</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>game consoles. The Dreamcast was Sega's final home console.</text>
+		</text>	
+		<text name="info11" extra="true">
+			<text>marking the end of the company's 18 years in the console market.</text>
+		</text>
+
 	</view>
 </theme>
