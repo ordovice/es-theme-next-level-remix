@@ -5,7 +5,7 @@
 	<view name="system">
 	
 		<text name="info1" extra="true">
-			<text>FB Alpha or FBA as it is commonly known is an emulator of arcade games,</text>
+			<text>FB Neo or FBNeo as it is commonly known is an emulator of arcade games,</text>
 		</text>
 		<text name="info2" extra="true">
 			<text>that is, it takes the program code, graphic data, ... from an orginal arcade game </text>
@@ -17,16 +17,16 @@
 			<text>As far as the game is concerned it is running in it's original cabinet.</text>
 		</text>
 		<text name="info5" extra="true">
-			<text> FBA is an open-source project and it is programmed by a group of people known</text>
+			<text>FBNeo is an open-source project and it is programmed by a group of people </text>
 		</text>
 		<text name="info6" extra="true">
-			<text> as the FBA team. Over the years this has comprised Jan_Klaassen,</text>
+			<text>known as the FBNeo team. Over the years this has comprised Jan_Klaassen,</text>
 		</text>
 		<text name="info7" extra="true">
 			<text>KEV, LoopMaster, Mike Haggar, Hyper Yagami, Ayeye.</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>FBA is based on the original FinalBurn by Dave.</text>
+			<text>FBNeo is based on the original FinalBurn by Dave.</text>
 		</text>
 		
 	</view>
