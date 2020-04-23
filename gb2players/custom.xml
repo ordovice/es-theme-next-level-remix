@@ -1,38 +1,49 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : </text>
+			<text>Release Date: April 21, 1989</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : </text>
+			<text>Developer: Nintendo</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>OS : </text>
+			<text>CPU: Sharp LR35902</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : </text>
+			<text>Memory: 8 KB SRAM and 8 KB video RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : </text>
+			<text>Graphics: N/A</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>ROM : </text>
+			<text>Sound: 4 channel mono</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>GPU : </text>
+			<text>Media: Cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Sound chip : </text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Resolution : </text>
+			<text>The Game Boy is an 8-bit handheld video game console.  It is the</text>
 		</text>
-		
+		<text name="info10" extra="true">
+			<text>first handheld console in the Game Boy line. It was the first</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>handheld game to use video game cartridges since the Microvision.</text>
+		</text>
+
 	</view>
 
-	
 </theme>
