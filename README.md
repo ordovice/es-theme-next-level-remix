@@ -107,10 +107,10 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |megadrive|X|X|X|X|X|
 |midway|X|||||
 |mrboom|X|||||
-|msx|X|||||
-|msx1|X|||||
-|msx2|X|||||
-|msx2+|X|||||
+|msx|X|X|X|X|X|
+|msx1|X|X|X|X|X|
+|msx2|X|X|X|X|X|
+|msx2+|X|X|X|X|X|
 |msxturbor|X|||||
 |n64|X|||||
 |namco|X|||||
