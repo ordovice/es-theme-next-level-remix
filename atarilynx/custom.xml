@@ -3,36 +3,42 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Epyx / Atari</text>
+			<text>Release Date: September 1, 1989</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1989 (US) 1990 (JP, EU)</text>
+			<text>Developer: Epyx, Atari Corporation</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>Units sold : 1 million</text>
+			<text>CPU: WDC 65SC02</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>CPU : 8-bit with 16-bit address space</text>
+			<text>Memory: 64 KB</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>Co-Processors : Mikey and Suzy 2 x 16-bit</text>
+			<text>Graphics: 160×102 pixels resolution</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>RAM : 64K 120 ns DRAM</text>
+			<text>Sound: 4 channel sound</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>ROM : 512 bytes</text>
+			<text>Media: ROM cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 160 x 102 pixels</text>
+			<text/>
 		</text>
 		<text name="info9" extra="true">
-			<text>Sound :  4 channels, 8-bit DAC</text>
+			<text>The Atari Lynx is a 16-bit handheld game console. </text>
 		</text>
-		
+		<text name="info10" extra="true">
+			<text>It was the world's first handheld electronic game with a color LCD.</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>It was also notable for its advanced graphics and ambidextrous layout.</text>
+		</text>
+
 	</view>
 
-	
+
 </theme>

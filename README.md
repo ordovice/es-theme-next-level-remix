@@ -61,8 +61,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |atari7800|X|X|X|X|X|
 |atari800|X|X|X|X|X|
 |atarijaguar|X|X|X|X|X|
-|atarilynx|X|||||
-|atarist|X|||||
+|atarilynx|X|X|X|X|X|
+|atarist|X|X|X|X|X|
 |atlus|X|||||
 |atomiswave|X|X|X|X|X|
 |auto-allgames|X|||||
