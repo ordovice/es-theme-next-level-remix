@@ -111,8 +111,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |msx1|X|X|X|X|X|
 |msx2|X|X|X|X|X|
 |msx2+|X|X|X|X|X|
-|msxturbor|X|||||
-|n64|X|||||
+|n64|X|X|X|X|X|
 |namco|X|||||
 |naomi|X|||||
 |nds|X|||||
