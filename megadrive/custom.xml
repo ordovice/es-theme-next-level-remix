@@ -3,39 +3,41 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
 		<text name="info1" extra="true">
-			<text>Manufacturer : Sega</text>
+			<text>Release Date: August 14, 1989</text>
 		</text>
 		<text name="info2" extra="true">
-			<text>Year of Release : 1988 (JP) 1989 (US) 1990 (EU)</text>
+			<text>Developer: Sega</text>
 		</text>
 		<text name="info3" extra="true">
-			<text>Units sold : 30 million</text>
+			<text>CPU: Motorola 68000, Zilog Z80 co-processor</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>Best-selling game : Sonic the Hedgehog</text>
+			<text>Memory: 64 KB main RAM and 64 KB video RAM</text>
 		</text>
 		<text name="info5" extra="true">
-			<text>CPU : 16-bit Motorola 68000 @ 7.6 MHz</text>
+			<text>Graphics: Yahama YM7101 VDP</text>
 		</text>
 		<text name="info6" extra="true">
-			<text>CPU2 : 8-bit Zilog Z80 @ 3.58 Mhz (sound CPU)</text>
+			<text>Sound: Yamaha YM2612, Texas Instruments SN76489A</text>
 		</text>
 		<text name="info7" extra="true">
-			<text>RAM : 64 kB / VRAM : 64kB / sound RAM : 8kB</text>
+			<text>Media: Cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Video : 16-bit Sega VDP</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Resolution : 320×224 pixels, 64 colors (512 colors palette)</text>
+			<text>The Sega Mega Drive/Genesis is Sega's third home console. It was</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Sound : Yamaha YM2612 FM and TI SN76489 PSG</text>
-		</text>	
-		
+			<text>codenamed the Sega Mark V during development and is part of what is</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>now known as the fourth generation of video game consoles.</text>
+		</text>
+
 	</view>
 
-	
+
 </theme>
