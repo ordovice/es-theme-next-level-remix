@@ -95,7 +95,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |gc|X|X|X|X|X|
 |gx4000|X|X|X|X|X|
 |imageviewer|X|||||
-|intellivision|X|||||
+|intellivision|X|X|X|X|X|
 |irem|X|||||
 |jaleco|X|||||
 |kaneko|X|||||
