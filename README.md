@@ -60,7 +60,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |atari5200|X|X|X|X|X|
 |atari7800|X|X|X|X|X|
 |atari800|X|X|X|X|X|
-|atarijaguar|X|||||
+|atarijaguar|X|X|X|X|X|
 |atarilynx|X|||||
 |atarist|X|||||
 |atlus|X|||||
