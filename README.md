@@ -113,7 +113,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |msx2+|X|X|X|X|X|
 |n64|X|X|X|X|X|
 |namco|X|||||
-|naomi|X|||||
+|naomi|X|X|X|X|X|
 |nds|X|||||
 |neogeo|X|||||
 |neogeocd|X|||||
