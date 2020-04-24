@@ -103,8 +103,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |lightgun|X|||||
 |lutro|X|||||
 |mame|X|||||
-|mastersystem|X|||||
-|megadrive|X|||||
+|mastersystem|X|X|X|X|X|
+|megadrive|X|X|X|X|X|
 |midway|X|||||
 |mrboom|X|||||
 |msx|X|||||

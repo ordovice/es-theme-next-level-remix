@@ -3,39 +3,48 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Sega</text>
+			<text>Release Date: October 20, 1985</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1985 (JP) 1986 (US) 1987 (EU)</text>
+			<text>Developer: Sega</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 13 million</text>
+			<text>CPU: Zilog Z80</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Alex Kidd in Miracle World</text>
+			<text>Memory: 8 KB RAM plus 16 KB video RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
+			<text>Graphics: TI TMS9928A VDP</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 8kB / VRAM : 16kB</text>
+			<text>Sound: TI SN76489 PSG 4 channels</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Video : Sega VDP (custom Texas Instruments TMS9918)</text>
+			<text>Media: Cartridge, Sega Card</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 256 × 192 pixels, 32 colors (64 colors palette)</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Sound : TI SN76489 PSG / add-on module YM2413 FM</text>
+			<text>The Master System/Mark III is a third-generation home video game console.</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Cart Size : 32kB - 1MB</text>
+			<text>Both the Mark III and the original Master System models could play with both</text>
 		</text>
-		
+		<text name="info11" extra="true">
+			<text>cartridges and the credit card-sized Sega Cards</text>
+		</text>
+
 	</view>
 
-	
+
 </theme>
