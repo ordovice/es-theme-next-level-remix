@@ -114,7 +114,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |n64|X|X|X|X|X|
 |namco|X|||||
 |naomi|X|X|X|X|X|
-|nds|X|||||
+|nds|X|X|X|X|X|
 |neogeo|X|||||
 |neogeocd|X|||||
 |nes|X|||||
