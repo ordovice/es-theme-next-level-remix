@@ -126,7 +126,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |pc98|X|||||
 |pce-cd|X|||||
 |pcengine|X|||||
-|pcfx|X|||||
+|pcfx|X|X|X|X|X|
 |pokemini|X|||||
 |ports|X|||||
 |prboom|X|||||
