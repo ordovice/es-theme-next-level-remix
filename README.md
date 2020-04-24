@@ -121,7 +121,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |ngp|X|||||
 |ngpc|X|||||
 |nintendo|X|||||
-|odyssey2|X|||||
+|odyssey2|X|X|X|X|X|
 |pc|X|X|X|X|X|
 |pc98|X|||||
 |pce-cd|X|||||
