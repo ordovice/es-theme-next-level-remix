@@ -2,36 +2,42 @@
 
 	<formatVersion>4</formatVersion>
 	<view name="system">
-		<text name="info1" extra="true">
-			<text>Manufacturer : Nintendo</text>
-		</text>
-		<text name="info2" extra="true">
-			<text>Year of Release : 1996</text>
-		</text>
-		<text name="info3" extra="true">
-			<text>Units sold : 32.93 million</text>
-		</text>
-		<text name="info4" extra="true">
-			<text>Best-selling game : Super Mario 64</text>
-		</text>
-		<text name="info5" extra="true">
-			<text>CPU : 64-bit NEC VR4300</text>
-		</text>
-		<text name="info6" extra="true">
-			<text>RAM : 4 MB RDRAM expandable to 8 MB</text>
-		</text>
-		<text name="info7" extra="true">
-			<text>Video : 64-bit SGI RCP</text>
-		</text>
+			<text name="info1" extra="true">
+				<text>Release Date: June 23, 1996</text>
+			</text>
+			
+			<text name="info2" extra="true">
+				<text>Developer: Nintendo IRD</text>
+			</text>
+			
+			<text name="info3" extra="true">
+				<text>CPU: 64-bit NEC VR4300</text>
+			</text>
+			
+			<text name="info4" extra="true">
+				<text>Memory: 4 MB RDRAM expandable to 8 MB</text>
+			</text>
+			
+			<text name="info5" extra="true">
+				<text>Graphics: 64-bit SGI RCP</text>
+			</text>
+			
+			<text name="info6" extra="true">
+				<text>Sound: 64-bit SGI RCP</text>
+			</text>
+			
+			<text name="info7" extra="true">
+				<text>Media: Cartridge</text>
+			</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 576i</text>
+			<text></text>
 		</text>
-		<text name="info9" extra="true">
-			<text>Sound : 64-bit SGI RCP</text>
-		</text>
-		<text name="info10" extra="true">
-			<text>Media: Cartridge</text>
-		</text>
+			<text name="info9" extra="true">
+				<text>The Nintendo 64 is Nintendo's third home video game console, named</text>
+			</text>
+			<text name="info10" extra="true">
+				<text>for its 64-bit CPU.</text>
+			</text>
 		
 	</view>
 </theme>
