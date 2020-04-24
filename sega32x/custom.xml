@@ -1,38 +1,49 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : </text>
+			<text>Release Date: June 1, 1994</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : </text>
+			<text>Developer: Sega</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>OS : </text>
+			<text>CPU: Two Hitachi SH2 32-bit RISC</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : </text>
+			<text>Memory: 256 KB RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : </text>
+			<text>Graphics: Sega 32X VDP</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>ROM : </text>
+			<text>Sound: QSound PWM</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>GPU : </text>
+			<text>Media: Cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Sound chip : </text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Resolution : </text>
+			<text>The 32X is an add-on for the Sega Mega Drive/Genesis video game console.</text>
 		</text>
-		
+		<text name="info10" extra="true">
+			<text>Codenamed "Project Mars", the 32X was designed to expand the power of the</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>Genesis and serve as a transitional console into the 32-bit era.</text>
+		</text>		
 	</view>
 
-	
+
 </theme>
