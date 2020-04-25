@@ -1,38 +1,48 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : </text>
+			<text>Release Date: September 1986</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : </text>
+			<text>Developer: Thomson SA</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>OS : </text>
+			<text>CPU: Motorola 6809E 1 MHz</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : </text>
+			<text>Memory: 256/512 KB RAM, 80 KB ROM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : </text>
+			<text>Graphics: 160 x 200, 320 x 200, 640 x 200</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>ROM : </text>
+			<text>Sound: generator + 1 bit D/A converter 6 bits</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>GPU : </text>
+			<text>Media: Floppy disk</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Sound chip : </text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Resolution : </text>
+			<text>The TO8 has a tape drive and Microsoft BASIC 1.0 on its</text>
 		</text>
-		
-	</view>
+		<text name="info10" extra="true">
+			<text>internal ROM, and there is optionally an external floppy drive.</text>
+		</text>
 
+		</view>
+
+
+	</theme>
 	
-</theme>

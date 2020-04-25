@@ -148,7 +148,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |supergrafx|X|||||
 |taito|X|||||
 |tecmo|X|||||
-|thomson|X|||||
+|thomson|X|X|X|X|X|
 |tyrquake|X|||||
 |vectrex|X|||||
 |virtualboy|X|||||
