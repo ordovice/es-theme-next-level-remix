@@ -3,38 +3,44 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Sega</text>
+			<text>Release Date: July 15, 1983</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1983 (JP)</text>
+			<text>Developer: Sega</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 2 million</text>
+			<text>CPU: Zilog Z80 @ 3.58 MHz</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Flicky</text>
+			<text>Memory: 1 KB RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : 8-Bit Zilog Z80 @ 3.58 MHz</text>
+			<text>Graphics: Texas Instruments TMS9928A</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 1kB / VRAM : 2kB </text>
+			<text>Sound: Texas Instruments SN76489</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Video : Texas Instruments TMS9918</text>
+			<text>Media: ROM cartridge, cassette tape</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 256×192 pixels, 16 colors (21 colors palette)</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Sound chip : Texas Instruments SN76489 PSG</text>
+			<text>The SG-1000 is a home video game console manufactured by Sega.</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Cart Size : 8kB - 48kB</text>
+			<text>It was Sega's first entry into the home video game hardware business.</text>
 		</text>
-		
+
 	</view>
-	
+
 </theme>
