@@ -4,33 +4,33 @@
 
 	<view name="system">
 
-		<text name="info1" extra="true">
-			<text>Release Date: June 1, 1994</text>
-		</text>
-
-		<text name="info2" extra="true">
-			<text>Developer: Sega</text>
-		</text>
-
-		<text name="info3" extra="true">
-			<text>CPU: Two Hitachi SH2 32-bit RISC</text>
-		</text>
-
-		<text name="info4" extra="true">
-			<text>Memory: 256 KB RAM</text>
-		</text>
-
-		<text name="info5" extra="true">
-			<text>Graphics: Sega 32X VDP</text>
-		</text>
-
-		<text name="info6" extra="true">
-			<text>Sound: QSound PWM</text>
-		</text>
-
-		<text name="info7" extra="true">
-			<text>Media: Cartridge</text>
-		</text>
+			<text name="info1" extra="true">
+				<text>Release Date: June 1, 1994</text>
+			</text>
+			
+			<text name="info2" extra="true">
+				<text>Developer: Sega</text>
+			</text>
+			
+			<text name="info3" extra="true">
+				<text>CPU: Two Hitachi SH2 32-bit RISC</text>
+			</text>
+			
+			<text name="info4" extra="true">
+				<text>Memory: 256 KB RAM</text>
+			</text>
+			
+			<text name="info5" extra="true">
+				<text>Graphics: Sega 32X VDP</text>
+			</text>
+			
+			<text name="info6" extra="true">
+				<text>Sound: QSound PWM</text>
+			</text>
+			
+			<text name="info7" extra="true">
+				<text>Media: Cartridge</text>
+			</text>
 		<text name="info8" extra="true">
 			<text></text>
 		</text>
