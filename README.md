@@ -140,7 +140,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |scummvm|X|X|X|X|X|
 |sega|X|||||
 |sega32x|X|X|X|X|X|
-|segacd|X|||||
+|segacd|X|X|X|X|X|
 |sg-1000|X|||||
 |snes|X|||||
 |snk|X|||||

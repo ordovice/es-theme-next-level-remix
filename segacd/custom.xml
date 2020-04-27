@@ -4,36 +4,46 @@
 
 	<view name="system">
 	
-		<text name="info1" extra="true">
-			<text>Manufacturer : Sega</text>
-		</text>
-		<text name="info2" extra="true">
-			<text>Year of Release : 1991 (JP) 1992 (US) 1993 (EU)</text>
-		</text>
-		<text name="info3" extra="true">
-			<text>Units sold : 30 million</text>
-		</text>
-		<text name="info4" extra="true">
-			<text>Best-selling game : Sewer Shark</text>
-		</text>
-		<text name="info5" extra="true">
-			<text>CPU : 16-bit Motorola 68000 @ 12.5 MHz + Megadrive CPUs</text>
-		</text>
-		<text name="info6" extra="true">
-			<text>RAM : 512kB / VRAM : 256kB / sound RAM : 16kB</text>
-		</text>
-		<text name="info7" extra="true">
-			<text>Video : Custom ASIC</text>
-		</text>
+			<text name="info1" extra="true">
+				<text>Release Date: December 12, 1991</text>
+			</text>
+
+			<text name="info2" extra="true">
+				<text>Developer: Sega</text>
+			</text>
+
+			<text name="info3" extra="true">
+				<text>CPU: Motorola 68000 @ 12.5 MHz</text>
+			</text>
+
+			<text name="info4" extra="true">
+				<text>Memory: 6 Mbits</text>
+			</text>
+
+			<text name="info5" extra="true">
+				<text>Graphics: Sega custom</text>
+			</text>
+
+			<text name="info6" extra="true">
+				<text>Sound: Ricoh RF5C164</text>
+			</text>
+
+			<text name="info7" extra="true">
+				<text>Media: CD-ROM, CD+G</text>
+			</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 320×224 pixels, 64 colors (512 colors palette)</text>
+			<text></text>
 		</text>
-		<text name="info9" extra="true">
-			<text>Sound : Ricoh RF5C164 + Megadrive Sound chips </text>
-		</text>		
-		<text name="info10" extra="true">
-			<text>Media : 500MB CD-ROM discs</text>
-		</text>
+
+			<text name="info9" extra="true">
+				<text>The Sega CD/Mega-CD is a CD-ROM accessory for the Sega Genesis. The Sega</text>
+			</text>	
+			<text name="info10" extra="true">
+				<text>CD lets the user play CD-based games and adds hardware functionality</text>
+			</text>	
+			<text name="info11" extra="true">
+				<text>such as a faster central processing unit and graphic enhancements.</text>
+			</text>	
 		
 	</view>
 	
