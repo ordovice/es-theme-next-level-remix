@@ -117,7 +117,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |nds|X|X|X|X|X|
 |neogeo|X|X|X|X|X|
 |neogeocd|X|X|X|X|X|
-|nes|X|||||
+|nes|X|X|X|X|X|
 |ngp|X|||||
 |ngpc|X|||||
 |nintendo|X|||||
