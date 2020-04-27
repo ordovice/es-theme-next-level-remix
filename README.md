@@ -135,8 +135,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |psp|X|X|X|X|X|
 |psx|X|X|X|X|X|
 |sammy|X|||||
-|satellaview|X|||||
-|saturn|X|||||
+|satellaview|X|X|X|X|X|
+|saturn|X|X|X|X|X|
 |scummvm|X|||||
 |sega|X|||||
 |sega32x|X|X|X|X|X|
