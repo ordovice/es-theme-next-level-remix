@@ -144,7 +144,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |sg-1000|X|||||
 |snes|X|||||
 |snk|X|||||
-|sufami|X|||||
+|sufami|X|X|X|X|X|
 |supergrafx|X|||||
 |taito|X|||||
 |tecmo|X|||||
