@@ -152,7 +152,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |tyrquake|X|X|X|X|X|
 |vectrex|X|X|X|X|X|
 |virtualboy|X|X|X|X|X|
-|wii|X|||||
+|wii|X|X|X|X|X|
 |wonderswan|X|||||
 |wonderswancolor|X|||||
 |x68000|X|X|X|X|X|

@@ -3,35 +3,44 @@
 	<formatVersion>4</formatVersion>
 	<view name="system">
 		<text name="info1" extra="true">
-			<text>Manufacturer : Nintendo</text>
+			<text>Release Date: November 19, 2006</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 2006</text>
+			<text>Developer: Nintendo</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 101.63 million</text>
+			<text>CPU: 729 MHz IBM PowerPC</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Wii Sports</text>
+			<text>Memory: 88 MB</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : 729 MHz IBM PowerPC</text>
+			<text>Graphics: 243 MHz ATI "Hollywood"</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 88 MB</text>
+			<text>Sound: Stereo – Dolby Pro Logic II</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>GPU : 243 MHz ATI "Hollywood"</text>
-		</text>
-		<text name="info8" extra="true">
-			<text>Resolution : 480p</text>
-		</text>
-		<text name="info9" extra="true">
-			<text>Sound : Stereo – Dolby Pro Logic II</text>
-		</text>
-		<text name="info10" extra="true">
 			<text>Media: Disc, Digital distribution</text>
 		</text>
-		
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The Wii is a seventh-generation console, which competed with</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Xbox 360 and PlayStation 3. Nintendo states that its console</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>targets a broader demographic than that of the two others. </text>
+		</text>
+
 	</view>
 </theme>
