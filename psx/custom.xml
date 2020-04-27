@@ -3,37 +3,46 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Sony Computer Entertainment</text>
+			<text>Release Date: December 3, 1994</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1994 (JP) 1995 (US, EU)</text>
+			<text>Developer: Sony Computer Entertainment</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 102.48 million</text>
+			<text>CPU: MIPS R3000A compatible 32-bit RISC CPU</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : Gran Turismo</text>
+			<text>Memory: 2 MB RAM, 1 MB video RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : 32-bit R3000A RISC running at 33.8688 Mhz </text>
+			<text>Graphics: 32-bit Sony GPU</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 16 Mbits</text>
+			<text>Sound: 16-bit Sony SPU, 24 channel ADPCM</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Picture Processor Unit : 32-bit</text>
+			<text>Media: CD-ROM</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Video RAM : 8 Mbits</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Audio RAM : 4 Mbits</text>
+			<text>The PlayStation was the first of the PS lineup of home video game</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>GPU : GFX processor unit</text>
+			<text>consoles. It primarily competed with the Nintendo 64 and the Sega</text>
 		</text>
-		
+		<text name="info11" extra="true">
+			<text>Saturn as part of the fifth generation of video game consoles.</text>
+		</text>
+
 	</view>
 </theme>

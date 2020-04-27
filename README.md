@@ -127,7 +127,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |pce-cd|X|X|X|X|X|
 |pcengine|X|X|X|X|X|
 |pcfx|X|X|X|X|X|
-|pokemini|X|||||
+|pokemini|X|X|X|X|X|
 |ports|X|||||
 |prboom|X|X|X|X|X|
 |ps2|X|X|X|X|X|

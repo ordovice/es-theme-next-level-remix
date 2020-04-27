@@ -3,31 +3,41 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Nintendo</text>
+			<text>Release Date: November 16, 2001</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 2001 (US, JP) 2002 (EU)</text>
+			<text>Developer: Nintendo</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Best-selling game : Pokémon Party mini</text>
+			<text>CPU: S1C88 @ 4 MHz</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : S1C88 @ 4 MHz</text>
+			<text>Memory: 4 KB RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : 4 kB (shared with video subsystem)</text>
+			<text>Graphics: Monochrome LCD, 96 × 64</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>Display : 96 x 64 pixels monochrome LCD</text>
-		</text>
-		<text name="info7" extra="true">
-			<text>Sound : Single channel PWM sound with three volume levels.</text>
+			<text>Media: ROM cartridge</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Cart Size : 512 kB</text>
+			<text></text>
 		</text>
-		
+		<text name="info9" extra="true">
+			<text>The Pokémon Mini is a handheld game console that was themed around the</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Pokémon media franchise. It is the smallest handheld with interchangeable</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>cartridges ever produced by Nintendo, weighing just under 71 grams.</text>
+		</text>
 	</view>
 </theme>
