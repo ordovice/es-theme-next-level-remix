@@ -1,31 +1,46 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Sinclair Research</text>
+			<text>Release Date: April 21, 1982</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>OS : Sinclair BASIC</text>
+			<text>Developer: Sinclair Research</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Year of Release : 1982</text>
+			<text>CPU: Zilog Z80A</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Units sold : 5 million</text>
+			<text>Memory: 16, 48, or 128 KB</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : Z80 @ 3.5 MHz and equivalent</text>
+			<text>Graphics: N/A</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>Memory : 16 KB / 48 KB / 128 KB</text>
+			<text>Sound: 1-channel</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Media : Cassette tape, 3-inch floppy disk on Spectrum +3</text>
+			<text>Media: Cassette Tape</text>
 		</text>
-		
+
+		<text name="info9" extra="true">
+			<text>The ZX Spectrum is an 8-bit personal home computer. The Spectrum was</text>
+		</text>
+		<text name="info10" extra="true">
+			<text> ultimately released as 8 models, ranging from the entry level model </text>
+		</text>
+		<text name="info11" extra="true">
+			<text>with 16 kB RAM to the ZX Spectrum +3 with 128 kB RAM and built in floppy.</text>
+		</text>
 	</view>
-	
+
 </theme>

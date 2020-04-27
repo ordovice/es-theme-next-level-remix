@@ -75,7 +75,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |c64|X|X|X|X|X|
 |capcom|X|||||
 |cave|X|||||
-|cavestory|X|||||
+|cavestory|X|X|X|X|X|
 |coleco|X|||||
 |colecovision|X|X|X|X|X|
 |cps1|X|||||
@@ -157,5 +157,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |wonderswancolor|X|X|X|X|X|
 |x68000|X|X|X|X|X|
 |zx81|X|X|X|X|X|
-|zxspectrum|X|||||
+|zxspectrum|X|X|X|X|X|
 
