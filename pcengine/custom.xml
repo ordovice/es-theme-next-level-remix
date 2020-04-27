@@ -3,31 +3,44 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : NEC</text>
+			<text>Release Date: October 30, 1987</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1987 (JP) 1989 (US, EU)</text>
+			<text>Developer: Hudson Soft</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 10 million</text>
+			<text>CPU: Two Hudson Soft HuC6280A</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : HuC6280 8-bit 7,16 Mhz</text>
+			<text>Memory: 8 KB RAM plus 64 KB video RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : 8 Kbyte</text>
+			<text>Graphics: HuC6260 VCE \ HuC6270A VDC</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>Picture Processor Unit : 8-bit</text>
+			<text>Sound: 6 PSG audio channels</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Video RAM : 64 Kbyte</text>
+			<text>Media: HuCard</text>
 		</text>
-		<text name="info8" extra="true">
-			<text>Media : HU-Card, SHU-Card, CD-ROM, Super-CD-ROM</text>
+
+		<text name="info9" extra="true">
+			<text>The PC Engine was jointly developed by Hudson Soft and NEC Home Electronics.</text>
 		</text>
-		
+		<text name="info10" extra="true">
+			<text>It was the first console released in the 16-bit era, albeit still utilizing an</text>
+		</text>
+		<text name="info11" extra="true">
+			<text> 8-bit CPU. It ended up competing with the Genesis and SNES.</text>
+		</text>
+
 	</view>
 </theme>

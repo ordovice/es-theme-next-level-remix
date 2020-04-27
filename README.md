@@ -123,9 +123,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |nintendo|X|||||
 |odyssey2|X|X|X|X|X|
 |pc|X|X|X|X|X|
-|pc98|X|||||
-|pce-cd|X|||||
-|pcengine|X|||||
+|pc98|X|X|X|X|X|
+|pce-cd|X|X|X|X|X|
+|pcengine|X|X|X|X|X|
 |pcfx|X|X|X|X|X|
 |pokemini|X|||||
 |ports|X|||||
