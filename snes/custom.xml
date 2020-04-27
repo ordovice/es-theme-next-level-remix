@@ -4,36 +4,47 @@
 
 	<view name="system">
 	
-		<text name="info1" extra="true">
-			<text>Manufacturer : Nintendo</text>
-		</text>
-		<text name="info2" extra="true">
-			<text>Year of Release : 1990 (JP) 1991 (US) 1992 (EU)</text>
-		</text>
-		<text name="info3" extra="true">
-			<text>Units sold : 49.10 million</text>
-		</text>
-		<text name="info4" extra="true">
-			<text>Best-selling game : Super Mario World</text>
-		</text>
-		<text name="info5" extra="true">
-			<text>CPU : 16-bit Custom 65C816 @ 3.58 MHz</text>
-		</text>
-		<text name="info6" extra="true">
-			<text>RAM : 128kB / VRAM : 64kB</text>
-		</text>
-		<text name="info7" extra="true">
-			<text>Video : 16-bit PPU (Picture Processor Unit)</text>
-		</text>
+			<text name="info1" extra="true">
+				<text>Release Date: November 21, 1990</text>
+			</text>
+			
+			<text name="info2" extra="true">
+				<text>Developer: Nintendo</text>
+			</text>
+			
+			<text name="info3" extra="true">
+				<text>CPU: Ricoh 5A22</text>
+			</text>
+			
+			<text name="info4" extra="true">
+				<text>Memory: 128 KB DRAM, 64 KB SRAM</text>
+			</text>
+			
+			<text name="info5" extra="true">
+				<text>Graphics: 16 bit PPU</text>
+			</text>
+			
+			<text name="info6" extra="true">
+				<text>Sound: Sony SPC700 and Sony DSP</text>
+			</text>
+			
+			<text name="info7" extra="true">
+				<text>Media: Cartridge</text>
+			</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 256x224, 256 colors (32768 colors palette)</text>
+			<text></text>
 		</text>
-		<text name="info9" extra="true">
-			<text>Sound : 8-bit Sony SPC700, 8 channels</text>
-		</text>
-		<text name="info10" extra="true">
-			<text>Cart Size : 256kB - 6MB</text>
-		</text>
+			<text name="info9" extra="true">
+				<text>The SNES is a 16-bit home video game console. In Japan, the system is</text>
+			</text>
+		
+			<text name="info10" extra="true">
+				<text>called the Super Famicom. Although each version is essentially the same,</text>
+			</text>
+			
+			<text name="info11" extra="true">
+				<text>regional lockout prevents them from being compatible with one another.</text>
+			</text>
 		
 	</view>
 
