@@ -130,9 +130,9 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |pokemini|X|||||
 |ports|X|||||
 |prboom|X|X|X|X|X|
-|ps2|X|||||
+|ps2|X|X|X|X|X|
 |psiko|X|||||
-|psp|X|||||
+|psp|X|X|X|X|X|
 |psx|X|||||
 |sammy|X|||||
 |satellaview|X|||||
