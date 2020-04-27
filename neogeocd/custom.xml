@@ -3,38 +3,46 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : SNK Corporation</text>
+			<text>Release Date: September 9, 1994</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1990 (JP, EU) 1991 (US)</text>
+			<text>Developer: SNK Corporation</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 1 million</text>
+			<text>CPU: Motorola 68000</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>Best-selling game : The King of Fighters '95</text>
+			<text>Memory: 7Mb DRAM, 512K VRAM e 64K SRAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>CPU : Motorola 68000 @ 12MHz, Zilog Z80A @ 4MHz</text>
+			<text>Graphics: 304 x 224</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>RAM : 64KB RAM</text>
+			<text>Sound: Yamaha Stereo - 13 channels</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Audio Ram : 2KB</text>
+			<text>Media: CD-ROM</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Video RAM : 84KB</text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Display : 320×224 resolution, 4096 colors out of 65536</text>
+			<text>Neo Geo CD is the same platform as Neo Geo, converted to the</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Sound chip : Yamaha YM2610</text>
+			<text>cheaper CD format. The unit's 1X CD-ROM drive is slow, with very</text>
 		</text>
-		
+		<text name="info11" extra="true">
+			<text>long loading times of up to 56 Mbit of data per load.</text>
+		</text>
 	</view>
-	
+
 </theme>
