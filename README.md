@@ -150,7 +150,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |tecmo|X|||||
 |thomson|X|X|X|X|X|
 |tyrquake|X|X|X|X|X|
-|vectrex|X|||||
+|vectrex|X|X|X|X|X|
 |virtualboy|X|||||
 |wii|X|||||
 |wonderswan|X|||||

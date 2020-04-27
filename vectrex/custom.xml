@@ -3,29 +3,43 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : General Consumer Electronics</text>
+			<text>Release Date: November 1982</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1982 (US) 1983 (EU, JP)</text>
+			<text>Developer: General Consumer Electronics</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>CPU : Motorola 68A09 @ 1.5 MHz</text>
+			<text>CPU: Motorola MC68A09 @ 1.5 MHz</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>RAM : 1KB (two 4-bit 2114 chips)</text>
+			<text>Memory: 1 KB</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>ROM :  8KB (one 8-bit 2363 chip)</text>
+			<text>Graphics: MOS 6522 (VIA)</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>Media : Cartridge with 32KB ROM</text>
+			<text>Sound: AY-3-8912</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Sound : General Instrument AY-3-8912</text>
+			<text>Media: ROM cartridge</text>
 		</text>
-		
+		<text name="info9" extra="true">
+			<text>The Vectrex is a vector display-based home video game console</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>The Vectrex has an integrated vector monitor which displays vector graphics.</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>It used plastic screen overlays to simulate color and various static graphics.</text>
+		</text>
 	</view>
-	
+
 </theme>
