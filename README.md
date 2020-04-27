@@ -118,8 +118,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |neogeo|X|X|X|X|X|
 |neogeocd|X|X|X|X|X|
 |nes|X|X|X|X|X|
-|ngp|X|||||
-|ngpc|X|||||
+|ngp|X|X|X|X|X|
+|ngpc|X|X|X|X|X|
 |nintendo|X|||||
 |odyssey2|X|X|X|X|X|
 |pc|X|X|X|X|X|
