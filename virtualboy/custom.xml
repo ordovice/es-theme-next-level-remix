@@ -3,38 +3,41 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Nintendo</text>
+			<text>Release Date: July 21, 1995</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1995 (JP, US)</text>
+			<text>Developer: Nintendo RD1</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 800 000</text>
+			<text>CPU: NEC V810</text>
 		</text>
 		<text name="info4" extra="true">
-			<text>Best-selling game : VB Wario Land</text>
-		</text>
-		<text name="info5" extra="true">
-			<text>CPU : 32Bit NEC V810 RISC @ 20MHz</text>
-		</text>
-		<text name="info6" extra="true">
 			<text>RAM : 1Mbits DRAM 512kb P-SRAM</text>
 		</text>
+		<text name="info5" extra="true">
+			<text>Media: ROM cartridge</text>
+		</text>
+
 		<text name="info7" extra="true">
-			<text>Colors : 4 colors / 32 intensity levels</text>
+			<text>The Virtual Boy is a 32-bit table-top video game console. It was marketed</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Resolution : 384 x 224 pixels</text>
+			<text>as the first console capable of displaying stereoscopic 3D graphics. The</text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Screen : 2 RTI light-emitting LEDs</text>
+			<text>player uses the console in a manner similar to a head-mounted display,</text>
 		</text>
 		<text name="info10" extra="true">
-			<text>Sound : 16Bits stereo</text>
+			<text>placing their head against the unit to see a red monochrome display.</text>
 		</text>
-		
+		<text name="info11" extra="true">
+			<text>The games use a parallax effect to create the illusion of depth.</text>
+		</text>
 	</view>
-	
+
 </theme>
