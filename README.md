@@ -156,6 +156,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |wonderswan|X|X|X|X|X|
 |wonderswancolor|X|X|X|X|X|
 |x68000|X|X|X|X|X|
-|zx81|X|||||
+|zx81|X|X|X|X|X|
 |zxspectrum|X|||||
 
