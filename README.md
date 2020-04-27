@@ -145,7 +145,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |snes|X|X|X|X|X|
 |snk|X|||||
 |sufami|X|X|X|X|X|
-|supergrafx|X|||||
+|supergrafx|X|X|X|X|X|
 |taito|X|||||
 |tecmo|X|||||
 |thomson|X|X|X|X|X|
