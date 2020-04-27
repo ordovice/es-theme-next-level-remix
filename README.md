@@ -153,8 +153,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |vectrex|X|X|X|X|X|
 |virtualboy|X|X|X|X|X|
 |wii|X|X|X|X|X|
-|wonderswan|X|||||
-|wonderswancolor|X|||||
+|wonderswan|X|X|X|X|X|
+|wonderswancolor|X|X|X|X|X|
 |x68000|X|X|X|X|X|
 |zx81|X|||||
 |zxspectrum|X|||||

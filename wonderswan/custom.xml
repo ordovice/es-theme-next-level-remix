@@ -3,29 +3,44 @@
 	<formatVersion>4</formatVersion>
 
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : Bandaï</text>
+			<text>Release Date: March 4, 1999</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : 1999 (JP)</text>
+			<text>Developer: Bandai</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>Units sold : 3.5 million</text>
+			<text>CPU: NEC V30 MZ</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : 16Bits NEC V20</text>
+			<text>Memory: 512 kbit (64 KB) RAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : 512k video</text>
+			<text>Graphics: TFT LCD 224 × 144</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>Resolution : 224 x 144 pixels</text>
+			<text>Sound: 4 PCM channels</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>Sound : 4 PCM channels, 32 samples 4Bit for each channel</text>
+			<text>Media: ROM cartridge</text>
 		</text>
-		
+
+		<text name="info9" extra="true">
+			<text>The WonderSwan is a handheld game console. It was developed by Gunpei</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>Yokoi's company Koto Laboratory and Bandai, and was the last piece of</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>hardware Yokoi developed before his death in 1997.</text>
+		</text>
 	</view>
-	
+
 </theme>
