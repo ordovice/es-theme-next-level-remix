@@ -149,7 +149,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |taito|X|||||
 |tecmo|X|||||
 |thomson|X|X|X|X|X|
-|tyrquake|X|||||
+|tyrquake|X|X|X|X|X|
 |vectrex|X|||||
 |virtualboy|X|||||
 |wii|X|||||
