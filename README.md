@@ -133,7 +133,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 |ps2|X|X|X|X|X|
 |psiko|X|||||
 |psp|X|X|X|X|X|
-|psx|X|||||
+|psx|X|X|X|X|X|
 |sammy|X|||||
 |satellaview|X|||||
 |saturn|X|||||

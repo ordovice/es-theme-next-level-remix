@@ -1,38 +1,49 @@
 <theme>
 
 	<formatVersion>4</formatVersion>
-	
+
 	<view name="system">
-	
+
 		<text name="info1" extra="true">
-			<text>Manufacturer : </text>
+			<text>Release Date: November 22, 1994</text>
 		</text>
+
 		<text name="info2" extra="true">
-			<text>Year of Release : </text>
+			<text>Developer: Sega</text>
 		</text>
+
 		<text name="info3" extra="true">
-			<text>OS : </text>
+			<text>CPU: 2× Hitachi SH-2 @ 28.6 MHz</text>
 		</text>
+
 		<text name="info4" extra="true">
-			<text>CPU : </text>
+			<text>Memory: 2 MB RAM, 1.5 MB VRAM</text>
 		</text>
+
 		<text name="info5" extra="true">
-			<text>RAM : </text>
+			<text>Graphics: VDP1 and VDP2 video display</text>
 		</text>
+
 		<text name="info6" extra="true">
-			<text>ROM : </text>
+			<text>Sound: Yamaha YMF292</text>
 		</text>
+
 		<text name="info7" extra="true">
-			<text>GPU : </text>
+			<text>Media: CD-ROM, CD+G, CD+EG</text>
 		</text>
 		<text name="info8" extra="true">
-			<text>Sound chip : </text>
+			<text></text>
 		</text>
 		<text name="info9" extra="true">
-			<text>Resolution : </text>
+			<text>The Sega Saturn is a 32-bit fifth-generation home video game console.</text>
 		</text>
-		
+		<text name="info10" extra="true">
+			<text>The successor to the successful Sega Genesis, the Saturn has a dual-CPU </text>
+		</text>
+		<text name="info11" extra="true">
+			<text>architecture and eight processors.</text>
+		</text>		
 	</view>
 
-	
+
 </theme>
