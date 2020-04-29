@@ -126,7 +126,7 @@
 		<text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players, md_lbl_lastplayed, md_lbl_playcount">
 			<color>A0A0B000</color>
 		</text>
-		<text name="md_lbl_rating,md_playcount,md_lbl_releasedate,md_lbl_lastplayed,md_lbl_developer,md_lbl_publisher,md_lbl_genre,md_lbl_players,md_lbl_playcount">
+		<text name="md_lbl_rating,md_playcount,md_lbl_releasedate,md_lbl_lastplayed,md_lbl_developer,md_lbl_publisher,md_lbl_genre,md_lbl_players,md_lbl_playcount,md_lbl_favorite,md_favorite">
 			<pos>1 1</pos>
 		</text>
 		<text name="md_publisher, md_genre, md_players, md_playcount, md_description">
