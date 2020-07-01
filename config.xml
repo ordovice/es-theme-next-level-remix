@@ -1,15 +1,18 @@
 ﻿<theme>
 	<formatVersion>7</formatVersion>
-
+	<include subset="colorset" name="blue" displayName="${blue}">./_inc/colors/blue.xml</include>
+	<include subset="colorset" name="red" displayName="${red}">./_inc/colors/red.xml</include>
+	<include subset="colorset" name="green" displayName="${green}">./_inc/colors/green.xml</include>
+	
 	<include subset="systemview" name="Wheel Right">./_inc/systemview/wheeldroite.xml</include>
 	<include subset="systemview" name="Wheel Left">./_inc/systemview/wheelgauche.xml</include>
 	<include subset="systemview" name="Horizontal">./_inc/systemview/normal.xml</include>
 	<include subset="systemview" name="Vertical Right">./_inc/systemview/verticaldroit.xml</include>
 	<include subset="systemview" name="Vertical Left">./_inc/systemview/verticalgauche.xml</include>
 
-	<include subset="regions" name="US" displayName="${none}">./_inc/regions/us.xml</include>	
-	<include subset="regions" name="EU" displayName="${blue}">./_inc/regions/eu.xml</include>
-	<include subset="regions" name="JP" displayName="${red}">./_inc/regions/jp.xml</include>	
+	<include subset="regions" name="US">./_inc/regions/us.xml</include>	
+	<include subset="regions" name="EU">./_inc/regions/eu.xml</include>
+	<include subset="regions" name="JP">./_inc/regions/jp.xml</include>	
 
 	<include subset="infoset" name="None" displayName="${none}">./_inc/infoview/none.xml</include>	
 	<include subset="infoset" name="Lower Right" displayName="${red}">./_inc/infoview/left.xml</include>
@@ -22,9 +25,7 @@
 	<include subset="backgroundimages" name="Standard" displayName="${bg-std}">./_inc/backgrounds/standard.xml</include>	
 	<include subset="backgroundimages" name="Consoles" displayName="${bg-consoles}">./_inc/backgrounds/consoles.xml</include>	
 
-	<include subset="colorset" name="blue" displayName="${blue}">./_inc/colors/blue.xml</include>
-	<include subset="colorset" name="red" displayName="${red}">./_inc/colors/red.xml</include>
-	<include subset="colorset" name="green" displayName="${green}">./_inc/colors/green.xml</include>
+
 	
 
 </theme>

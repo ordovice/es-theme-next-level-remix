@@ -2,6 +2,7 @@
 <theme>
   <formatVersion>4</formatVersion>
   <variables>
+  	<halocolor>green</halocolor>
     <baseColor>008b00</baseColor>
     <gradientEndColor>005b00</gradientEndColor>
     <centerFadeColor>008b0050</centerFadeColor>
