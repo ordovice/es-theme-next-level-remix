@@ -2,12 +2,12 @@
 	<formatVersion>7</formatVersion>
 	<view name="system">
 		<image name="background" extra="true">
-			<path>./../../$system/art/fond.jpg</path>
+			<path>./../../${system.theme}/art/fond.jpg</path>
 		</image>
 	</view>
 	<view name="basic, detailed, grid">
 		<image name="background" extra="true">
-			<path>./../../$system/art/fond.jpg</path>
+			<path>./../../${system.theme}/art/fond.jpg</path>
 		</image>
 	</view>
 </theme>

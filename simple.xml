@@ -11,7 +11,7 @@ Adapted for BATOCERA by The Mini Cake TV : https://www.youtube.com/c/TheMiniCake
 
 	<include>./config.xml</include>
 	<include>./views.xml</include>
-	<include>./$system/custom.xml</include>
+	<include>./${system.theme}/custom.xml</include>
 
 	<view name="screen">
 		<controllerActivity name="controllerActivity">

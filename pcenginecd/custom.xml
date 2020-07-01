@@ -1,0 +1,46 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+			<text name="info1" extra="true">
+				<text>Release Date: October 30, 1987</text>
+			</text>
+
+			<text name="info2" extra="true">
+				<text>Developer: NEC Home Electronics</text>
+			</text>
+
+			<text name="info3" extra="true">
+				<text>CPU: Hudson Soft HuC6280</text>
+			</text>
+
+			<text name="info4" extra="true">
+				<text>Memory: 8 KB RAM plus 64 KB video RAM</text>
+			</text>
+
+			<text name="info5" extra="true">
+				<text>Graphics: HuC6260 VCE \ HuC6270A VDC</text>
+			</text>
+
+			<text name="info6" extra="true">
+				<text>Sound: 6 PSG audio channels</text>
+			</text>
+
+			<text name="info7" extra="true">
+				<text>Media: CD-ROM</text>
+			</text>
+			
+			<text name="info9" extra="true">
+				<text>The CD-ROM² System is an add-on attachment for the PC Engine. The </text>
+			</text>
+			<text name="info10" extra="true">
+				<text>add-on allows the core versions of the console to play PC Engine games</text>
+			</text>		
+			<text name="info11" extra="true">
+				<text>in CD-ROM format in addition to standard HuCards.</text>
+			</text>		
+	</view>
+	
+</theme>
