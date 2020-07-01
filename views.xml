@@ -60,6 +60,7 @@
 			<origin>0 0</origin>
 			<size>1 1</size>
 			<path>./_inc/images/white40.png</path>
+			<path>./_inc/images/white40-${halocolor}.png</path>
 		</image>
 
 		<textlist name="gamelist">
