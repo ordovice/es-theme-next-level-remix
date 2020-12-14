@@ -1,0 +1,50 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: March 4, 2000</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Sony Computer Entertainment</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: "Emotion Engine" @ 300 MHz</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 32 MB of RDRAM </text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: 150 MHz "Graphics Synthesizer"</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: PCM 2ch 48KHz, Dolby Digital 5.1</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: DVD, CD</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The PlayStation 2 (PS2) is the successor to the original PlayStation,</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>as well as the second installment in the PlayStation console lineup.</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>The PS2 competed with Dreamcast, GameCube, and Xbox.</text>
+		</text>
+
+	</view>
+
+
+</theme>
