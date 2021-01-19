@@ -1,0 +1,38 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: July 1985</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: NEC</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Intel 8086</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 128 kilobytes and higher</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: Intel 8244 (NTSC) or 8245 (PAL)</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: Yamaha YM2203</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: Floppy Disks</text>
+		</text>
+
+	</view>
+
+
+</theme>

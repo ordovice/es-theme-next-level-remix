@@ -1,0 +1,47 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: March 28, 1987</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Sharp Corporation</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: Motorola 68000</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 1-4 MB (expandable up to 12 MB)</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: Sharp-Hudson Custom Chipset</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: Yamaha YM2151</text>
+		</text>
+
+		<text name="info7" extra="true">
+			<text>Media: Floppy disk</text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The X68000 is a home computer created by Sharp Corporation,</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>sold only in Japan.</text>
+		</text>
+
+	</view>
+
+
+</theme>
