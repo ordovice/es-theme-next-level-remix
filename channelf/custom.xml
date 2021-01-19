@@ -1,0 +1,50 @@
+<theme>
+
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true">
+			<text>Release Date: August 1982</text>
+		</text>
+
+		<text name="info2" extra="true">
+			<text>Developer: Commodore Business Machines (CBM)</text>
+		</text>
+
+		<text name="info3" extra="true">
+			<text>CPU: MOS Technology 6510/8500</text>
+		</text>
+
+		<text name="info4" extra="true">
+			<text>Memory: 64 KB RAM + 20 KB ROM</text>
+		</text>
+
+		<text name="info5" extra="true">
+			<text>Graphics: VIC-II (320 × 200, 16 colors)</text>
+		</text>
+
+		<text name="info6" extra="true">
+			<text>Sound: SID 6581/8580</text>
+		</text>
+		<text name="info7" extra="true">
+			<text></text>
+		</text>
+		<text name="info8" extra="true">
+			<text></text>
+		</text>
+		<text name="info9" extra="true">
+			<text>The C64 has been listed in the Guinness World Records as</text>
+		</text>
+		<text name="info10" extra="true">
+			<text>the highest-selling single computer model of all time. The C64 took</text>
+		</text>
+		<text name="info11" extra="true">
+			<text>its name from its 64 kilobytes (65,536 bytes) of RAM. </text>
+		</text>
+
+
+	</view>
+
+
+</theme>
